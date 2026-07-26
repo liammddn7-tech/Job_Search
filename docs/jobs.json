@@ -1,7 +1,7 @@
 [
   {
     "id": "sample-1",
-    "title": "Client Experience Specialist — Evening Team",
+    "title": "Client Experience Specialist \u2014 Evening Team",
     "company": "Northlight Client Solutions",
     "location": "Remote, US",
     "is_remote": true,
@@ -12,7 +12,11 @@
     "apply_link": "https://example.com/apply/1",
     "description_snippet": "Support West Coast and international clients during our 7pm-12am ET evening shift, Monday through Friday. Part-time, salaried, fully remote.",
     "score": 8,
-    "tags": ["salary-confirmed", "evening-shift-mentioned", "remote-confirmed"],
+    "tags": [
+      "salary-confirmed",
+      "evening-shift-mentioned",
+      "remote-confirmed"
+    ],
     "first_seen": "2026-07-25T09:00:00+00:00"
   },
   {
@@ -28,7 +32,10 @@
     "apply_link": "https://example.com/apply/2",
     "description_snippet": "Flexible part-time hours, salaried, focused on outbound partnership development. Some evening availability preferred for international calls.",
     "score": 5,
-    "tags": ["salary-confirmed", "remote-confirmed"],
+    "tags": [
+      "salary-confirmed",
+      "remote-confirmed"
+    ],
     "first_seen": "2026-07-26T09:00:00+00:00"
   },
   {
@@ -44,7 +51,11 @@
     "apply_link": "https://example.com/apply/3",
     "description_snippet": "Overnight and evening shift coverage for our customer success team, $22/hour, part-time.",
     "score": 5,
-    "tags": ["hourly-pay", "evening-shift-mentioned", "remote-confirmed"],
+    "tags": [
+      "hourly-pay",
+      "evening-shift-mentioned",
+      "remote-confirmed"
+    ],
     "first_seen": "2026-07-23T09:00:00+00:00"
   }
 ]
