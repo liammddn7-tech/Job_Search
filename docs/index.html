@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Evening Shift — Job Matches</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600;9..144,700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --ink-navy: #131B2E;
+    --dusk: #212C47;
+    --card: #263056;
+    --amber: #E8A33D;
+    --rose: #C97064;
+    --warm-white: #F3EFE6;
+    --muted: #8B93AC;
+    --line: rgba(243,239,230,0.10);
+  }
+  * { box-sizing: border-box; }
+  html,body{ margin:0; padding:0; background:var(--ink-navy); color:var(--warm-white); font-family:'IBM Plex Sans', sans-serif; }
+  a { color: inherit; }
+
+  .wrap{ max-width: 920px; margin: 0 auto; padding: 48px 24px 96px; }
+
+  /* ---------- Hero: evening arc clock ---------- */
+  .hero{ display:flex; align-items:center; gap:36px; margin-bottom:44px; flex-wrap:wrap; }
+  .dial-box{ flex-shrink:0; }
+  h1{
+    font-family:'Fraunces', serif; font-weight:600; font-size: clamp(28px,4vw,40px);
+    margin:0 0 10px; letter-spacing:-0.01em; line-height:1.05;
+  }
+  .hero p{ margin:0; color:var(--muted); font-size:15px; max-width:46ch; line-height:1.5; }
+  .hero .accent{ color: var(--amber); font-style:italic; font-family:'Fraunces', serif; }
+
+  /* ---------- Stat strip ---------- */
+  .stats{ display:flex; gap:28px; margin-bottom:36px; padding-bottom:28px; border-bottom:1px solid var(--line); flex-wrap:wrap; }
+  .stat .num{ font-family:'Fraunces', serif; font-size:30px; font-weight:600; color: var(--amber); line-height:1; }
+  .stat .label{ font-size:12px; color:var(--muted); text-transform:uppercase; letter-spacing:0.08em; margin-top:6px; }
+
+  /* ---------- Filters ---------- */
+  .filters{ display:flex; gap:8px; margin-bottom:28px; flex-wrap:wrap; }
+  .filter-btn{
+    background:transparent; border:1px solid var(--line); color:var(--muted);
+    padding:8px 16px; border-radius:100px; font-size:13px; font-family:inherit;
+    cursor:pointer; transition: all .15s ease;
+  }
+  .filter-btn:hover{ border-color: var(--amber); color: var(--warm-white); }
+  .filter-btn.active{ background:var(--amber); border-color:var(--amber); color:var(--ink-navy); font-weight:600; }
+
+  /* ---------- Job cards ---------- */
+  .job{
+    background:var(--card); border:1px solid var(--line); border-radius:10px;
+    padding:22px 24px; margin-bottom:14px; display:flex; gap:20px; align-items:flex-start;
+  }
+  .job .score-badge{
+    flex-shrink:0; width:46px; height:46px; border-radius:50%;
+    display:flex; align-items:center; justify-content:center;
+    font-family:'IBM Plex Mono', monospace; font-weight:500; font-size:15px;
+    border:2px solid var(--amber); color:var(--amber);
+  }
+  .job .score-badge.low{ border-color: var(--muted); color: var(--muted); }
+  .job-body{ flex:1; min-width:0; }
+  .job-title{ font-family:'Fraunces', serif; font-size:19px; font-weight:600; margin:0 0 4px; }
+  .job-meta{ color:var(--muted); font-size:13px; margin-bottom:10px; }
+  .job-meta .sep{ margin: 0 8px; opacity:.4; }
+  .tags{ display:flex; gap:6px; flex-wrap:wrap; margin-bottom:12px; }
+  .tag{
+    font-size:11px; padding:3px 10px; border-radius:100px; font-family:'IBM Plex Mono', monospace;
+    background: rgba(232,163,61,0.12); color: var(--amber); border:1px solid rgba(232,163,61,0.3);
+  }
+  .tag.warn{ background: rgba(201,112,100,0.12); color: var(--rose); border-color: rgba(201,112,100,0.3); }
+  .snippet{ font-size:14px; color: var(--muted); line-height:1.5; margin-bottom:14px; }
+  .apply-link{
+    display:inline-block; font-size:13px; font-weight:600; color:var(--ink-navy);
+    background:var(--warm-white); padding:8px 18px; border-radius:6px; text-decoration:none;
+    transition: transform .1s ease;
+  }
+  .apply-link:hover{ transform: translateY(-1px); }
+
+  .empty{ text-align:center; padding:60px 20px; color:var(--muted); }
+  .empty h2{ font-family:'Fraunces', serif; color:var(--warm-white); font-weight:600; }
+
+  footer{ text-align:center; color:var(--muted); font-size:12px; margin-top:60px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <div class="hero">
+    <div class="dial-box">
+      <svg width="112" height="112" viewBox="0 0 112 112">
+        <circle cx="56" cy="56" r="50" fill="none" stroke="var(--dusk)" stroke-width="10"/>
+        <!-- highlighted arc: 7pm to midnight = 210deg to 360deg on a 24h dial starting at top(0h) -->
+        <path d="M 56 6 A 50 50 0 0 1 56 106" fill="none" stroke="var(--line)" stroke-width="10" stroke-linecap="round" opacity="0"/>
+        <path id="eveningArc" fill="none" stroke="var(--amber)" stroke-width="10" stroke-linecap="round"/>
+        <circle cx="56" cy="56" r="3" fill="var(--warm-white)"/>
+        <text x="56" y="20" text-anchor="middle" fill="var(--muted)" font-size="8" font-family="IBM Plex Mono">12a</text>
+        <text x="56" y="100" text-anchor="middle" fill="var(--muted)" font-size="8" font-family="IBM Plex Mono">12p</text>
+      </svg>
+    </div>
+    <div>
+      <h1>Your <span class="accent">evening shift</span><br/>job matches</h1>
+      <p>Remote, salaried, part-time roles in client experience &amp; business development — scanned daily and flagged for a 7pm&ndash;midnight ET window, Monday through Friday.</p>
+    </div>
+  </div>
+
+  <div class="stats" id="stats"></div>
+  <div class="filters" id="filters"></div>
+  <div id="jobList"></div>
+
+  <footer>Updated automatically each day via GitHub Actions · Data from JSearch</footer>
+</div>
+
+<script>
+  // draw the 7pm-midnight arc on the dial (24h clock, 12am at top, clockwise)
+  (function(){
+    const cx=56, cy=56, r=50;
+    function pt(hourFrac){
+      const angle = (hourFrac/24)*2*Math.PI - Math.PI/2;
+      return [cx + r*Math.cos(angle), cy + r*Math.sin(angle)];
+    }
+    const [x1,y1] = pt(19); // 7pm
+    const [x2,y2] = pt(24); // midnight
+    const path = document.getElementById('eveningArc');
+    path.setAttribute('d', `M ${x1} ${y1} A ${r} ${r} 0 0 1 ${x2} ${y2}`);
+  })();
+
+  let ALL_JOBS = [];
+  let currentFilter = 'all';
+
+  const FILTERS = [
+    { key:'all', label:'All matches' },
+    { key:'salary-confirmed', label:'Salary confirmed' },
+    { key:'hourly-pay', label:'Hourly pay' },
+    { key:'evening-shift-mentioned', label:'Evening shift mentioned' },
+    { key:'new', label:'New (last 3 days)' },
+  ];
+
+  function renderStats(jobs){
+    const salaryCount = jobs.filter(j=>j.tags.includes('salary-confirmed')).length;
+    const eveningCount = jobs.filter(j=>j.tags.includes('evening-shift-mentioned')).length;
+    const stats = [
+      { num: jobs.length, label: 'Total tracked' },
+      { num: salaryCount, label: 'Salary confirmed' },
+      { num: eveningCount, label: 'Evening shift mentioned' },
+    ];
+    document.getElementById('stats').innerHTML = stats.map(s=>`
+      <div class="stat"><div class="num">${s.num}</div><div class="label">${s.label}</div></div>
+    `).join('');
+  }
+
+  function renderFilters(){
+    document.getElementById('filters').innerHTML = FILTERS.map(f=>`
+      <button class="filter-btn ${f.key===currentFilter?'active':''}" data-key="${f.key}">${f.label}</button>
+    `).join('');
+    document.querySelectorAll('.filter-btn').forEach(btn=>{
+      btn.addEventListener('click', ()=>{
+        currentFilter = btn.dataset.key;
+        renderFilters();
+        renderJobs();
+      });
+    });
+  }
+
+  function applyFilter(jobs){
+    if(currentFilter==='all') return jobs;
+    if(currentFilter==='new'){
+      const cutoff = Date.now() - 3*86400*1000;
+      return jobs.filter(j=> new Date(j.first_seen).getTime() > cutoff);
+    }
+    return jobs.filter(j=>j.tags.includes(currentFilter));
+  }
+
+  function fmtSalary(j){
+    if(!j.min_salary && !j.max_salary) return null;
+    const period = (j.salary_period||'YEAR').toLowerCase();
+    const fmt = n => n ? '$'+Number(n).toLocaleString() : '';
+    if(j.min_salary && j.max_salary) return `${fmt(j.min_salary)}–${fmt(j.max_salary)} / ${period}`;
+    return `${fmt(j.min_salary||j.max_salary)} / ${period}`;
+  }
+
+  function renderJobs(){
+    const jobs = applyFilter(ALL_JOBS);
+    const list = document.getElementById('jobList');
+    if(jobs.length===0){
+      list.innerHTML = `<div class="empty"><h2>No matches here yet</h2><p>Check back tomorrow, or try a different filter.</p></div>`;
+      return;
+    }
+    list.innerHTML = jobs.map(j=>{
+      const salary = fmtSalary(j);
+      const tagHtml = j.tags.map(t=>{
+        const isWarn = t==='pay-type-unclear';
+        return `<span class="tag ${isWarn?'warn':''}">${t.replace(/-/g,' ')}</span>`;
+      }).join('');
+      return `
+        <div class="job">
+          <div class="score-badge ${j.score<3?'low':''}">${j.score}</div>
+          <div class="job-body">
+            <div class="job-title">${j.title||'Untitled role'}</div>
+            <div class="job-meta">
+              ${j.company||'Unknown company'}<span class="sep">·</span>${j.location||'Remote'}
+              ${salary ? `<span class="sep">·</span>${salary}` : ''}
+            </div>
+            <div class="tags">${tagHtml}</div>
+            <div class="snippet">${(j.description_snippet||'').replace(/</g,'&lt;')}...</div>
+            ${j.apply_link ? `<a class="apply-link" href="${j.apply_link}" target="_blank" rel="noopener">View &amp; apply →</a>` : ''}
+          </div>
+        </div>
+      `;
+    }).join('');
+  }
+
+  fetch('jobs.json?_=' + Date.now())
+    .then(r => r.ok ? r.json() : [])
+    .then(data => {
+      ALL_JOBS = data;
+      renderStats(ALL_JOBS);
+      renderFilters();
+      renderJobs();
+    })
+    .catch(() => {
+      document.getElementById('jobList').innerHTML =
+        `<div class="empty"><h2>No data yet</h2><p>Run job_finder.py once (or wait for the first scheduled run) to populate jobs.json.</p></div>`;
+    });
+</script>
+</body>
+</html>

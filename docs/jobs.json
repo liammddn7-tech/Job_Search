@@ -1,0 +1,50 @@
+[
+  {
+    "id": "sample-1",
+    "title": "Client Experience Specialist — Evening Team",
+    "company": "Northlight Client Solutions",
+    "location": "Remote, US",
+    "is_remote": true,
+    "min_salary": 48000,
+    "max_salary": 58000,
+    "salary_period": "YEAR",
+    "posted_at": "2026-07-25T00:00:00Z",
+    "apply_link": "https://example.com/apply/1",
+    "description_snippet": "Support West Coast and international clients during our 7pm-12am ET evening shift, Monday through Friday. Part-time, salaried, fully remote.",
+    "score": 8,
+    "tags": ["salary-confirmed", "evening-shift-mentioned", "remote-confirmed"],
+    "first_seen": "2026-07-25T09:00:00+00:00"
+  },
+  {
+    "id": "sample-2",
+    "title": "Business Development Associate (Part-Time)",
+    "company": "Meridian Growth Partners",
+    "location": "Remote",
+    "is_remote": true,
+    "min_salary": 32000,
+    "max_salary": 40000,
+    "salary_period": "YEAR",
+    "posted_at": "2026-07-24T00:00:00Z",
+    "apply_link": "https://example.com/apply/2",
+    "description_snippet": "Flexible part-time hours, salaried, focused on outbound partnership development. Some evening availability preferred for international calls.",
+    "score": 5,
+    "tags": ["salary-confirmed", "remote-confirmed"],
+    "first_seen": "2026-07-26T09:00:00+00:00"
+  },
+  {
+    "id": "sample-3",
+    "title": "Customer Success Rep - Night Coverage",
+    "company": "Hearth & Co",
+    "location": "Remote, US",
+    "is_remote": true,
+    "min_salary": null,
+    "max_salary": null,
+    "salary_period": null,
+    "posted_at": "2026-07-23T00:00:00Z",
+    "apply_link": "https://example.com/apply/3",
+    "description_snippet": "Overnight and evening shift coverage for our customer success team, $22/hour, part-time.",
+    "score": 5,
+    "tags": ["hourly-pay", "evening-shift-mentioned", "remote-confirmed"],
+    "first_seen": "2026-07-23T09:00:00+00:00"
+  }
+]
