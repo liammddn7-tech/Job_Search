@@ -97,7 +97,11 @@ def search_jsearch(query, api_key):
     }
     resp = requests.get(JSEARCH_URL, headers=headers, params=params, timeout=30)
     resp.raise_for_status()
-    return resp.json().get("data", [])
+    body = resp.json()
+    if body.get("status") == "ERROR":
+        print(f"[warn] API returned an error for query {query!r}: {body.get('error')}")
+        return []
+    return body.get("data", [])
 
 
 def score_job(job):
@@ -178,6 +182,9 @@ def main():
             continue
 
         for raw in results:
+            if not isinstance(raw, dict):
+                print(f"[warn] unexpected item in results for query {query!r}: {type(raw)} -> {str(raw)[:200]}")
+                continue
             job_id = raw.get("job_id")
             if not job_id or job_id in seen_ids:
                 continue
