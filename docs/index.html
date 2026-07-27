@@ -134,6 +134,8 @@
     { key:'salary-confirmed', label:'Salary confirmed' },
     { key:'hourly-pay', label:'Hourly pay' },
     { key:'evening-shift-mentioned', label:'Evening shift mentioned' },
+    { key:'trusted-source', label:'Trusted source' },
+    { key:'unverified-source', label:'Unverified source' },
     { key:'new', label:'New (last 3 days)' },
   ];
 
@@ -190,7 +192,7 @@
     list.innerHTML = jobs.map(j=>{
       const salary = fmtSalary(j);
       const tagHtml = j.tags.map(t=>{
-        const isWarn = t==='pay-type-unclear';
+        const isWarn = t==='pay-type-unclear' || t==='low-quality-listing' || t==='unverified-source';
         return `<span class="tag ${isWarn?'warn':''}">${t.replace(/-/g,' ')}</span>`;
       }).join('');
       return `
