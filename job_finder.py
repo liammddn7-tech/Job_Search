@@ -101,7 +101,12 @@ def search_jsearch(query, api_key):
     if body.get("status") == "ERROR":
         print(f"[warn] API returned an error for query {query!r}: {body.get('error')}")
         return []
-    return body.get("data", [])
+    data = body.get("data", {})
+    # search-v2 nests results as {"jobs": [...], "cursor": "..."} rather than
+    # returning the job list directly under "data".
+    if isinstance(data, dict):
+        return data.get("jobs", [])
+    return data  # fallback in case the shape changes back to a plain list
 
 
 def score_job(job):
