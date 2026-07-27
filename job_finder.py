@@ -19,6 +19,7 @@ import re
 import time
 from datetime import datetime, timezone
 from pathlib import Path
+from urllib.parse import urlparse
 
 import requests
 
@@ -52,11 +53,34 @@ EVENING_KEYWORDS = [
 
 # Keywords that suggest hourly (not salaried) pay -- these listings are still
 # included, just tagged "hourly-pay" so you can tell at a glance.
-HOURLY_KEYWORDS = ["/hr", "/ hour", "per hour", "hourly rate", "hourly pay"]
+HOURLY_KEYWORDS = ["/hr", "/hour", "/ hour", "per hour", "hourly rate", "hourly pay"]
 
 ROLE_KEYWORDS = [
     "client experience", "business development", "customer success",
     "account manager", "client relations", "client success",
+]
+
+# Well-known job boards / ATS platforms. Listings whose apply link or
+# publisher matches one of these get tagged "trusted-source". Anything else
+# gets tagged "unverified-source" so you know to double check it.
+TRUSTED_DOMAINS = [
+    "linkedin.com", "indeed.com", "glassdoor.com", "ziprecruiter.com",
+    "monster.com", "careerbuilder.com", "simplyhired.com", "flexjobs.com",
+    "weworkremotely.com", "remoteok.com", "greenhouse.io", "lever.co",
+    "myworkdayjobs.com", "smartrecruiters.com", "jobvite.com",
+    "icims.com", "taleo.net", "bamboohr.com", "ashbyhq.com",
+]
+TRUSTED_PUBLISHERS = [
+    "linkedin", "indeed", "glassdoor", "ziprecruiter", "monster",
+    "careerbuilder", "simplyhired", "flexjobs", "google",
+]
+
+# Phrases that show up when a scraper/template site has mangled a listing --
+# a strong signal the source is a low-quality content mill, not an original
+# posting or a mainstream board.
+LOW_QUALITY_MARKERS = [
+    "reputed company", "lorem ipsum", "insert company name",
+    "[company name]", "xyz company",
 ]
 
 DATA_DIR = Path(__file__).parent / "docs"
@@ -146,6 +170,30 @@ def score_job(job):
     if job.get("job_is_remote"):
         score += 1
         tags.append("remote-confirmed")
+
+    # Source trust check
+    apply_link = job.get("job_apply_link") or ""
+    publisher = (job.get("job_publisher") or "").lower()
+    domain = ""
+    try:
+        domain = urlparse(apply_link).netloc.lower().replace("www.", "")
+    except ValueError:
+        pass
+
+    is_trusted = (
+        any(td in domain for td in TRUSTED_DOMAINS)
+        or any(tp in publisher for tp in TRUSTED_PUBLISHERS)
+    )
+    has_low_quality_marker = any(m in text for m in LOW_QUALITY_MARKERS)
+
+    if has_low_quality_marker:
+        score -= 4
+        tags.append("low-quality-listing")
+    elif is_trusted:
+        score += 1
+        tags.append("trusted-source")
+    else:
+        tags.append("unverified-source")
 
     return score, tags
 
