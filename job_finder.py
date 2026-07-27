@@ -63,7 +63,7 @@ DATA_DIR = Path(__file__).parent / "docs"
 JOBS_FILE = DATA_DIR / "jobs.json"
 SEEN_FILE = Path(__file__).parent / "seen_job_ids.json"
 
-JSEARCH_URL = "https://jsearch.p.rapidapi.com/search"
+JSEARCH_URL = "https://jsearch.p.rapidapi.com/search-v2"
 
 # ---------------------------------------------------------------------------
 
@@ -89,7 +89,6 @@ def search_jsearch(query, api_key):
     }
     params = {
         "query": query,
-        "page": "1",
         "num_pages": str(NUM_PAGES),
         "date_posted": DATE_POSTED,
         "employment_types": EMPLOYMENT_TYPES,
