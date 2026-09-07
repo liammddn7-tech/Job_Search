@@ -1764,26 +1764,6 @@
     "first_seen": "2026-07-26T09:00:00+00:00"
   },
   {
-    "id": "sample-3",
-    "title": "Customer Success Rep - Night Coverage",
-    "company": "Hearth & Co",
-    "location": "Remote, US",
-    "is_remote": true,
-    "min_salary": null,
-    "max_salary": null,
-    "salary_period": null,
-    "posted_at": "2026-07-23T00:00:00Z",
-    "apply_link": "https://example.com/apply/3",
-    "description_snippet": "Overnight and evening shift coverage for our customer success team, $22/hour, part-time.",
-    "score": 5,
-    "tags": [
-      "hourly-pay",
-      "evening-shift-mentioned",
-      "remote-confirmed"
-    ],
-    "first_seen": "2026-07-23T09:00:00+00:00"
-  },
-  {
     "id": "TVZiUHF1cjJUUTdzb3QtQUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURGhOY1ROYVpqRmxlVEJTVFVWaGNUZFNaRWRUTjJkWlYxZHZVVm8yYW5WcE4wSlpkMGx4YUdSMU0wSlhaeTFsVDFGblpERlNhREU0Y1ZaamEyeFBVbXBuYjJkNGJVUklNMEoxYTI1V2NWSTRURVkzV0dKR1F6UkNhbWczV0haWmIyWlROa1ZOY0VGQmQyeEdXV1JTYmkxWlduYzNkMUZMVjNCd1RtMUxWRTltWkZGS1VUQVNGemMyUzFGaGMycFVUbUUyYW5GMGMxQnZkVmhRTmtGbkdpSkJSSE55T1daVWMyeGZjR2RXYlZOR2VuSjBURWRwYUhSRFVVa3hNM05uY1VKQg",
     "title": "Customer Happiness Representative (Remote, Seasonal, Part-Time)",
     "company": "NORY Inc",
