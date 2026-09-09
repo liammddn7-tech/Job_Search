@@ -1,25 +1,5 @@
 [
   {
-    "id": "sample-1",
-    "title": "Client Experience Specialist \u2014 Evening Team",
-    "company": "Northlight Client Solutions",
-    "location": "Remote, US",
-    "is_remote": true,
-    "min_salary": 48000,
-    "max_salary": 58000,
-    "salary_period": "YEAR",
-    "posted_at": "2026-07-25T00:00:00Z",
-    "apply_link": "https://example.com/apply/1",
-    "description_snippet": "Support West Coast and international clients during our 7pm-12am ET evening shift, Monday through Friday. Part-time, salaried, fully remote.",
-    "score": 8,
-    "tags": [
-      "salary-confirmed",
-      "evening-shift-mentioned",
-      "remote-confirmed"
-    ],
-    "first_seen": "2026-07-25T09:00:00+00:00"
-  },
-  {
     "id": "TC1KNURFeUI4NXJJb2xkeUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTWFYwWlU5dWNtbzFWalJOUWxvelpVVlhSbGRIT0VwWFdqWkZOVXBLYkVKTFNrNWhVREU1Um5wRWFIWTRkMVk1YVVoQ1JscFFWMDVMV0hKUlFXeFZhWEIxTTJ0T2VFWjJlR2t5Y3pSUGJFdzVVSEIxUVdnMlFXbERkemhTTWpscExYTnBRM1ZyY210bFkxQkVkWGc0YjB0d1YzWmFOamRMWHpaRlRqUklVRzVrTjJaamJrVVNGekJQZFVkaGRrUnBRWEV5Tm5WeU9GQjVkRGRHYjFGbkdpSkJSSE55T1daU2JrcGZUSFJYYUhSWGIxbExkVmt5VTFwMFUyVjBXazVWU1dGMw",
     "title": "Remote Night Shift Work | Evening Customer Supp...",
     "company": "Evening Customer Supp",
@@ -60,6 +40,27 @@
       "unverified-source"
     ],
     "first_seen": "2026-08-19T11:54:12.694211+00:00"
+  },
+  {
+    "id": "YmluZzotMTEzNDIxNDk4Mi5SZXRybw",
+    "title": "Work From Home \u2013 Paid Research",
+    "company": "Research Tribe",
+    "location": "Anywhere, England",
+    "is_remote": true,
+    "min_salary": null,
+    "max_salary": null,
+    "salary_period": null,
+    "posted_at": "2026-09-07T16:13:55.000Z",
+    "apply_link": "https://uk.linkedin.com/jobs/view/work-from-home-%E2%80%93-paid-research-at-research-tribe-4464397670?trk=bingjobs",
+    "description_snippet": "Research Tribe is a completely free service that connects people like you with remote opportunities to take part in market research. You could become a mystery shopper, product tester or simply share your opinion through paid surveys, focus groups and more.\n\r\n\n\r\nWe work with many leading market research companies and brands. They want to hear your thoughts and will reward you with a variety of inc",
+    "score": 6,
+    "tags": [
+      "pay-type-unclear",
+      "evening-shift-mentioned",
+      "remote-confirmed",
+      "trusted-source"
+    ],
+    "first_seen": "2026-09-09T14:50:51.483303+00:00"
   },
   {
     "id": "QzNXZnNkMlM5MEt6TDJIWUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMGxIWjJGc1REUTJSbVpsVG5RMVQyUjNaWGN3V1dONFJVaHBiRUZyVlhsVU56TTFSR3h5VTB4dlR6SmhjMjF6UzFRMlUwVktaR2hPU2pkYVNVZGpNMFZFTjNCNlJrTm9WbWhyUVdJemFuUmZVRWxFV2xNeVZIRnlkSFJpVG1KVlJVNUJOblJEY204MGMxWlBjMnhWYUhWcFNrOXJUVlJSWWtaMVJrNXBOMnc0TkdsM01qZ1NGM1pRY1ZKaGMzcGhRV0pIUjNBNE5GQm5jRjlWZVVGdkdpSkJSSE55T1daVFpHRTFMV3ByT1ROWE1sVkpVRlJZWVcxVlIwdFdUVEZyTVY5bg",
@@ -1745,25 +1746,6 @@
     "first_seen": "2026-07-27T01:14:31.587746+00:00"
   },
   {
-    "id": "sample-2",
-    "title": "Business Development Associate (Part-Time)",
-    "company": "Meridian Growth Partners",
-    "location": "Remote",
-    "is_remote": true,
-    "min_salary": 32000,
-    "max_salary": 40000,
-    "salary_period": "YEAR",
-    "posted_at": "2026-07-24T00:00:00Z",
-    "apply_link": "https://example.com/apply/2",
-    "description_snippet": "Flexible part-time hours, salaried, focused on outbound partnership development. Some evening availability preferred for international calls.",
-    "score": 5,
-    "tags": [
-      "salary-confirmed",
-      "remote-confirmed"
-    ],
-    "first_seen": "2026-07-26T09:00:00+00:00"
-  },
-  {
     "id": "TVZiUHF1cjJUUTdzb3QtQUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURGhOY1ROYVpqRmxlVEJTVFVWaGNUZFNaRWRUTjJkWlYxZHZVVm8yYW5WcE4wSlpkMGx4YUdSMU0wSlhaeTFsVDFGblpERlNhREU0Y1ZaamEyeFBVbXBuYjJkNGJVUklNMEoxYTI1V2NWSTRURVkzV0dKR1F6UkNhbWczV0haWmIyWlROa1ZOY0VGQmQyeEdXV1JTYmkxWlduYzNkMUZMVjNCd1RtMUxWRTltWkZGS1VUQVNGemMyUzFGaGMycFVUbUUyYW5GMGMxQnZkVmhRTmtGbkdpSkJSSE55T1daVWMyeGZjR2RXYlZOR2VuSjBURWRwYUhSRFVVa3hNM05uY1VKQg",
     "title": "Customer Happiness Representative (Remote, Seasonal, Part-Time)",
     "company": "NORY Inc",
@@ -2468,6 +2450,186 @@
       "remote-confirmed"
     ],
     "first_seen": "2026-07-27T01:14:31.587621+00:00"
+  },
+  {
+    "id": "YmluZzotODg2NzgyOTcyLlJldHJv",
+    "title": "Executive Assistant (100% Remote, Part-Time Or Full-Time))",
+    "company": "Boldly Premium Executive Assistants",
+    "location": "Anywhere, VA",
+    "is_remote": true,
+    "min_salary": null,
+    "max_salary": null,
+    "salary_period": null,
+    "posted_at": "2026-09-08T12:09:59.000Z",
+    "apply_link": "https://www.linkedin.com/jobs/view/executive-assistant-100%25-remote-part-time-or-full-time-at-boldly-premium-executive-assistants-4464675073?trk=bingjobs",
+    "description_snippet": "We are currently hiring for multiple part-time and full-time roles across several industries, including nonprofit, finance, venture capital, tech, and casual fine dining.\n\r\n\n\r\n\n\r\nAre you a dynamic, caring and ridiculously talented executive assistant who is looking to work remotely while still making a difference for the executive(s) you support? If so, Boldly is looking for you! Boldly is 100% re",
+    "score": 3,
+    "tags": [
+      "hourly-pay",
+      "remote-confirmed",
+      "trusted-source"
+    ],
+    "first_seen": "2026-09-09T14:50:44.874925+00:00"
+  },
+  {
+    "id": "YmluZzotMTIyOTQ1ODU3MS5SZXRybw",
+    "title": "Executive Assistant (100% Remote, Part-Time Or Full-Time)",
+    "company": "Boldly Premium Executive Assistants",
+    "location": "Anywhere, PA",
+    "is_remote": true,
+    "min_salary": null,
+    "max_salary": null,
+    "salary_period": null,
+    "posted_at": "2026-09-08T12:04:16.000Z",
+    "apply_link": "https://www.linkedin.com/jobs/view/executive-assistant-100%25-remote-part-time-or-full-time-at-boldly-premium-executive-assistants-4464672033?trk=bingjobs",
+    "description_snippet": "We are currently hiring for multiple part-time and full-time roles across several industries, including nonprofit, finance, venture capital, tech, and casual fine dining.\n\r\n\n\r\n\n\r\nAre you a dynamic, caring and ridiculously talented executive assistant who is looking to work remotely while still making a difference for the executive(s) you support? If so, Boldly is looking for you! Boldly is 100% re",
+    "score": 3,
+    "tags": [
+      "hourly-pay",
+      "remote-confirmed",
+      "trusted-source"
+    ],
+    "first_seen": "2026-09-09T14:50:44.875315+00:00"
+  },
+  {
+    "id": "YmluZzoyNDQzMTExLlJldHJv",
+    "title": "GTM Specialist - Fully Remote  Upto $160/Hr",
+    "company": "Mercor",
+    "location": "Anywhere, England",
+    "is_remote": true,
+    "min_salary": null,
+    "max_salary": null,
+    "salary_period": null,
+    "posted_at": "2026-09-06T19:18:42.000Z",
+    "apply_link": "https://uk.linkedin.com/jobs/view/gtm-specialist-fully-remote-upto-%24160-hr-at-mercor-4462916383?trk=bingjobs",
+    "description_snippet": "About The Job\n\r\n\n\r\nMercor connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors include\r\nBenchmark, General Catalyst, Peter Thiel,\r\nAdam D'Angelo, Larry Summers, and Jack Dorsey.\n\r\n\n\r\nPosition: Public Sector / Legal / GTM Experts\n\r\n\n\r\nType: Contract\n\r\n\n\r\nCompensation: $80\u2013$160/hour\n\r\n\n\r\nLocation: Remote\n\r\n\n\r\nRole Responsibilities\n",
+    "score": 3,
+    "tags": [
+      "hourly-pay",
+      "remote-confirmed",
+      "trusted-source"
+    ],
+    "first_seen": "2026-09-09T14:50:51.482927+00:00"
+  },
+  {
+    "id": "YmluZzotNzMyMzY0NjA2LlJldHJv",
+    "title": "Creative Marketing Expert - Fully Remote  Upto $160/Hr",
+    "company": "Mercor",
+    "location": "Anywhere, England",
+    "is_remote": true,
+    "min_salary": null,
+    "max_salary": null,
+    "salary_period": null,
+    "posted_at": "2026-09-06T19:18:46.000Z",
+    "apply_link": "https://uk.linkedin.com/jobs/view/creative-marketing-expert-fully-remote-upto-%24160-hr-at-mercor-4462913359?trk=bingjobs",
+    "description_snippet": "About The Job\n\r\n\n\r\nMercor connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors include\r\nBenchmark, General Catalyst, Peter Thiel,\r\nAdam D'Angelo, Larry Summers, and Jack Dorsey.\n\r\n\n\r\nPosition: Brand / Creative Marketing Professionals\n\r\n\n\r\nType: Contract\n\r\n\n\r\nCompensation: $80\u2013$160/hour\n\r\n\n\r\nLocation: Remote\n\r\n\n\r\nRole Responsibili",
+    "score": 3,
+    "tags": [
+      "hourly-pay",
+      "remote-confirmed",
+      "trusted-source"
+    ],
+    "first_seen": "2026-09-09T14:50:51.482992+00:00"
+  },
+  {
+    "id": "YmluZzotMjM4NDYwMjQyLlJldHJv",
+    "title": "Program Manager - Fully Remote  Upto $160/Hr",
+    "company": "Mercor",
+    "location": "Anywhere, England",
+    "is_remote": true,
+    "min_salary": null,
+    "max_salary": null,
+    "salary_period": null,
+    "posted_at": "2026-09-06T19:18:48.000Z",
+    "apply_link": "https://uk.linkedin.com/jobs/view/program-manager-fully-remote-upto-%24160-hr-at-mercor-4462920392?trk=bingjobs",
+    "description_snippet": "About The Job\n\r\n\n\r\nMercor connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors include\r\nBenchmark, General Catalyst, Peter Thiel,\r\nAdam D'Angelo, Larry Summers, and Jack Dorsey.\n\r\n\n\r\nPosition: Operations / Program Management Experts\n\r\n\n\r\nType: Contract\n\r\n\n\r\nCompensation: $80\u2013$160/hour\n\r\n\n\r\nLocation: Remote\n\r\n\n\r\nRole Responsibilit",
+    "score": 3,
+    "tags": [
+      "hourly-pay",
+      "remote-confirmed",
+      "trusted-source"
+    ],
+    "first_seen": "2026-09-09T14:50:51.483052+00:00"
+  },
+  {
+    "id": "YmluZzoxODE4NjE5MDQxLlJldHJv",
+    "title": "Social Media Specialist - Fully Remote  Upto $100/Hr",
+    "company": "Mercor",
+    "location": "Anywhere, England",
+    "is_remote": true,
+    "min_salary": null,
+    "max_salary": null,
+    "salary_period": null,
+    "posted_at": "2026-09-06T19:18:44.000Z",
+    "apply_link": "https://uk.linkedin.com/jobs/view/social-media-specialist-fully-remote-upto-%24100-hr-at-mercor-4462916387?trk=bingjobs",
+    "description_snippet": "About The Job\n\r\n\n\r\nMercor connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors include\r\nBenchmark, General Catalyst, Peter Thiel,\r\nAdam D'Angelo, Larry Summers, and Jack Dorsey.\n\r\n\n\r\nPosition: Marketing Expert \u2014 Social Media (AI Agent Environments)\n\r\n\n\r\nType: Contract\n\r\n\n\r\nCompensation: $60\u2013$100/hour\n\r\n\n\r\nLocation: Remote\n\r\n\n\r\nRo",
+    "score": 3,
+    "tags": [
+      "hourly-pay",
+      "remote-confirmed",
+      "trusted-source"
+    ],
+    "first_seen": "2026-09-09T14:50:51.483122+00:00"
+  },
+  {
+    "id": "YmluZzotMjAzMTgyODYzOS5SZXRybw",
+    "title": "Influencer Program Specialist - Fully Remote  Upto $100/Hr",
+    "company": "Mercor",
+    "location": "Anywhere, England",
+    "is_remote": true,
+    "min_salary": null,
+    "max_salary": null,
+    "salary_period": null,
+    "posted_at": "2026-09-06T19:18:45.000Z",
+    "apply_link": "https://uk.linkedin.com/jobs/view/influencer-program-specialist-fully-remote-upto-%24100-hr-at-mercor-4462921387?trk=bingjobs",
+    "description_snippet": "About The Job\n\r\n\n\r\nMercor connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors include\r\nBenchmark, General Catalyst, Peter Thiel,\r\nAdam D'Angelo, Larry Summers, and Jack Dorsey.\n\r\n\n\r\nPosition: Marketing Expert \u2014 Creator & Influencer (AI Agent Environments)\n\r\n\n\r\nType: Contract\n\r\n\n\r\nCompensation: $60\u2013$100/hour\n\r\n\n\r\nLocation: Remote",
+    "score": 3,
+    "tags": [
+      "hourly-pay",
+      "remote-confirmed",
+      "trusted-source"
+    ],
+    "first_seen": "2026-09-09T14:50:51.483188+00:00"
+  },
+  {
+    "id": "YmluZzotMTM1OTI5NjI2NC5SZXRybw",
+    "title": "Luxury Goods Consultant - Fully Remote  Upto $160/Hr",
+    "company": "Mercor",
+    "location": "Anywhere, England",
+    "is_remote": true,
+    "min_salary": null,
+    "max_salary": null,
+    "salary_period": null,
+    "posted_at": "2026-09-07T19:18:42.000Z",
+    "apply_link": "https://uk.linkedin.com/jobs/view/luxury-goods-consultant-fully-remote-upto-%24160-hr-at-mercor-4463201102?trk=bingjobs",
+    "description_snippet": "About The Job\n\r\n\n\r\nMercor connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors include\r\nBenchmark, General Catalyst, Peter Thiel,\r\nAdam D'Angelo, Larry Summers, and Jack Dorsey.\n\r\n\n\r\nPosition: Retail / Clienteling professionals\n\r\n\n\r\nType: Contract\n\r\n\n\r\nCompensation: $80\u2013$160/hour\n\r\n\n\r\nLocation: Remote\n\r\n\n\r\nRole Responsibilities\n\r",
+    "score": 3,
+    "tags": [
+      "hourly-pay",
+      "remote-confirmed",
+      "trusted-source"
+    ],
+    "first_seen": "2026-09-09T14:50:51.483241+00:00"
+  },
+  {
+    "id": "YmluZzo3MjM0NzYwMi5SZXRybw",
+    "title": "Voice Recording Specialist - Fully Remote  Upto $100/Hr",
+    "company": "Mercor",
+    "location": "Anywhere, England",
+    "is_remote": true,
+    "min_salary": null,
+    "max_salary": null,
+    "salary_period": null,
+    "posted_at": "2026-09-07T19:18:45.000Z",
+    "apply_link": "https://uk.linkedin.com/jobs/view/voice-recording-specialist-fully-remote-upto-%24100-hr-at-mercor-4463209001?trk=bingjobs",
+    "description_snippet": "About The Job\n\r\n\n\r\nMercor connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors include\r\nBenchmark, General Catalyst, Peter Thiel,\r\nAdam D'Angelo, Larry Summers, and Jack Dorsey.\n\r\n\n\r\nPosition: Voice Actor: CX Agent Voice Cloning (UK English)\n\r\n\n\r\nType: Contract\n\r\n\n\r\nCompensation: $50\u2013$100/hour\n\r\n\n\r\nLocation: Remote\n\r\n\n\r\nCommitmen",
+    "score": 3,
+    "tags": [
+      "hourly-pay",
+      "remote-confirmed",
+      "trusted-source"
+    ],
+    "first_seen": "2026-09-09T14:50:51.483373+00:00"
   },
   {
     "id": "TXkyaEtaRHEyWldQWGFjSkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTV2RoU2s1U2MxQm1VMjVpWW1KSFowOHdlVTl1VDJwUllVcFFXRzlsUm5aVmRtZGZXR2xmWTJOeU0wSnNUVlJRWWxBNFoxZEJTRXBDVjI5V0xVMXpiWGhxWmtSb2JVSk1NVTFsV1VZMlVFRjNaME5OTkROb1RHaHhXaTFpYUVaSVMwUlFkRGQwYzBoVE0wOXZMVkowU1Zab1RsZG5TREZOTVZscE1FMTJkVEl3VURoU2NGTVNGemMyUzFGaGMycFVUbUUyYW5GMGMxQnZkVmhRTmtGbkdpSkJSSE55T1daU2RVRk9la3RzTkZCQk1qVnlXazlPU2pCRFowSlFURk0zT0dkQg",
@@ -5143,6 +5305,66 @@
       "remote-confirmed"
     ],
     "first_seen": "2026-07-27T01:14:04.514587+00:00"
+  },
+  {
+    "id": "YmluZzotNzA4MTY5NDQzLlJldHJv",
+    "title": "Staff Psychiatrist - Part Time (Remote)",
+    "company": "La Clinica del Pueblo",
+    "location": "Anywhere, DC",
+    "is_remote": true,
+    "min_salary": null,
+    "max_salary": null,
+    "salary_period": null,
+    "posted_at": "2026-09-07T07:37:10.000Z",
+    "apply_link": "https://www.linkedin.com/jobs/view/staff-psychiatrist-part-time-remote-at-la-clinica-del-pueblo-4431885601?trk=bingjobs",
+    "description_snippet": "La Cl\u00ednica del Pueblo\n\r\n\n\r\nSTAFF PSYCHIATRIST - PART TIME POSITION\n\r\n\n\r\nJob Title: Staff Psychiatrist - Part Time (Remote anywhere in the US)\n\r\n\n\r\nDepartment: Patient Services\n\r\n\n\r\nSupervisor: Amina Chaudhry\n\r\n\n\r\nLocation: Remote (anywhere in the US)\n\r\n\n\r\nClassification: Exempt/ Salaried - Part Time\n\r\n\n\r\nSynopsis: Under the direction of the Chief Health Officer (CHO) or their designee, the Staff P",
+    "score": 2,
+    "tags": [
+      "pay-type-unclear",
+      "remote-confirmed",
+      "trusted-source"
+    ],
+    "first_seen": "2026-09-09T14:50:44.875108+00:00"
+  },
+  {
+    "id": "YmluZzotNzk2MzcwMzE4LlJldHJv",
+    "title": "Sales Executive (Remote)",
+    "company": "FORTE Talents",
+    "location": "Anywhere, England",
+    "is_remote": true,
+    "min_salary": null,
+    "max_salary": null,
+    "salary_period": null,
+    "posted_at": "2026-09-08T00:00:00.000Z",
+    "apply_link": "https://uk.linkedin.com/jobs/view/sales-executive-remote-at-forte-talents-4463526619?trk=bingjobs",
+    "description_snippet": "Role Summary\n\r\n\n\r\n\n\r\nThe Sales Executive drives revenue growth by owning the full early-stage sales lifecycle for SMB accounts within the IT sector. This\r\nMid-Level, Part-Time role is designed for a high-autonomy closer who can balance proactive prospecting with consultative discovery to convert leads into long-term partners. Success is measured by consistent quota attainment, pipeline health, and",
+    "score": 2,
+    "tags": [
+      "pay-type-unclear",
+      "remote-confirmed",
+      "trusted-source"
+    ],
+    "first_seen": "2026-09-09T14:50:51.482840+00:00"
+  },
+  {
+    "id": "YmluZzo4NjIwNjAzNTcuUmV0cm8",
+    "title": "Associate (Remote, Part-Time)",
+    "company": "secured futures",
+    "location": "Anywhere, GA",
+    "is_remote": true,
+    "min_salary": null,
+    "max_salary": null,
+    "salary_period": null,
+    "posted_at": "2026-09-07T00:00:00.000Z",
+    "apply_link": "https://www.monster.com/job-openings/associate-remote-part-time-atlanta-ga--76dd5502-ddcb-4a88-b2e6-a3b49549bb60?mstr_dist=true&trk=bingjobs",
+    "description_snippet": "Associate (Part-Time, Remote)\r\n\n\r\n\n\r\nCompany Overview\r\nWe are a mission-driven financial education and services organization focused on solving one of the world's most pressing issues: financial illiteracy. Our team helps individuals, families, and business owners gain the knowledge and tools they need to build financial security and long-term independence.\n\r\nWe pride ourselves on a culture of exc",
+    "score": 2,
+    "tags": [
+      "pay-type-unclear",
+      "remote-confirmed",
+      "trusted-source"
+    ],
+    "first_seen": "2026-09-09T14:51:08.489536+00:00"
   },
   {
     "id": "MnZEeU1YYlVzMnJ4Z0xMV0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMXB3U0ZGU1IwRlZTMWw2VjFGT1FqVnJVazVFWTE5MlpYQlVibWh6WHpGQk0wOVZkbEJpTTFKVVFuRnlWbkI2T1dGTFMzaFFUWE5VUkhwV1pXRmhMVTVCVlZOblV5MHROMkZsZG5aVGNWQXpWa2xJTVd4R2JVeE1XVGM0ZUZKa1dVOU9iRlZSU0dsVlRIUklMV3RwZUZsemVsaGxhemQzUm1oa1FuTkVWa0ZuZUhWZmRYRVNGM1pRY1ZKaGMzcGhRV0pIUjNBNE5GQm5jRjlWZVVGdkdpSkJSSE55T1daVVkwZGxXakZKYkdOamFub3pNVkp5YlRVdGFsTjRSREJYUzNCQg",
