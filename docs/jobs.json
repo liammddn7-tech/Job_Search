@@ -273,6 +273,48 @@
     "first_seen": "2026-09-30T16:32:01.835261+00:00"
   },
   {
+    "id": "c0FnNXU2VHZQY1V2dGNsZ0FBQUFBQT09OkVzc0JDb3dCUVVwcFZEUjBTVUpFUVZkbmQwMXhVMTl1TVdKbWJEUnZheTF3Vlc1RU1WOXpVMmhWTjBJd1IyZDBVRFpsY2pVd1pVOHpVVWw1TWtRNWRWODBUMDlJVFZGbmFEWnViekJxV0dwVlJGVnNaMHRLVEhsM1IzQkZaR1psWmxsWFRWb3lXVk01TVdSZlNrMUROV2xMY1hKWGNEWmtlVXB3UTI4eWQwOHhkRWMyV21sV1NGOXFaMnRNVEVwdlN5MFNGalpwTjJGaGRHSnJRa2xNTWpGelVWQm9USEZIUlZFYUlrRkVjM0k1WmxJMGQyRTViVVZJTkhGc01sTkhlVWMzUlV4SVpGRm1VR3hvWDBF",
+    "title": "Customer Service Agent - Part Time",
+    "company": "CloudOne LLC",
+    "location": "Anywhere",
+    "is_remote": true,
+    "min_salary": 15,
+    "max_salary": 19,
+    "salary_period": "HOUR",
+    "posted_at": "2026-10-20T00:00:00.000Z",
+    "apply_link": "https://www.indeed.com/viewjob?jk=5ff3ce30dc86cfcc",
+    "description_snippet": "Our Contact Center Agents are the heart of our business. They play a vital role, forming the human connection between our customers and our various partners. These partners include Kelly Blue Book, iHeart Media and many other names you will recognize. As an agent, you\u2019ll answer client inquiries and questions regarding multiple products and services that our organization both produces and provides ",
+    "score": 6,
+    "tags": [
+      "hourly-pay",
+      "evening-shift-mentioned",
+      "remote-confirmed",
+      "trusted-source"
+    ],
+    "first_seen": "2026-10-22T15:42:36.893661+00:00"
+  },
+  {
+    "id": "VW9JNWZMNjVzcUJZTXJKa0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTV0ZxVm1aaFRFVjVOazlEUVhKMlVuUkNkRVJNU0VOalZ6UnpTRm94WDNOTGRqUndWbnBEV0VwTmNscDBVbXBGVDFoeVl6RnlkVVJNZVRSWU5IUlBiekZRY0hKU2JqQnZWamhFYmpKbmVrMUtRell3WjFwNVZEaFNibDlxT1Mxa1dYUkZkak5FYm1GNFV6bFVRWGhTVW5wdlZqVXdibFYzZVd0SlNWVkdjbE5ZYVVrM2NWUVNGemRwTjJGaGRYRlZSa2xNYzNKMVJWQTFaVE13TUVGckdpSkJSSE55T1daVVdWcHNjMkUyYlhsU0xUZGxWbWN6TnkxMWMwNHdZbWx2TWpabg",
+    "title": "Business Development -Student Recruitment",
+    "company": "The Elite Job",
+    "location": "Anywhere",
+    "is_remote": true,
+    "min_salary": 20,
+    "max_salary": 30,
+    "salary_period": "HOUR",
+    "posted_at": "2026-10-19T00:00:00.000Z",
+    "apply_link": "https://www.theelitejob.com/job/13932/business-development-student-recruitment",
+    "description_snippet": "Job Summary\n\nThe Elite Job is seeking a dynamic and results-driven Business Development - Student Recruitment professional to join our growing team. In this role, you will be responsible for expanding our student recruitment efforts, building strong partnerships with educational institutions, and driving enrollment growth. You will develop and implement strategic initiatives to attract students gl",
+    "score": 6,
+    "tags": [
+      "hourly-pay",
+      "evening-shift-mentioned",
+      "remote-confirmed",
+      "unverified-source"
+    ],
+    "first_seen": "2026-10-22T15:42:41.057551+00:00"
+  },
+  {
     "id": "aDBvcS1ydVByTUt6dEhBeUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURlZIZUdwamJVdGtOVlZOUlVkWGJEQnVVa2hxZVROQk1XTkpOa3BrYkVwVWJYZHlXVGR2U2t4alpsSXpWMlV4WlVKWFNXSkNjelIyZFVJNFJFVmxjVzFzYWpGUk5EUjBYMDV3TkdRM1VHUXlTMUF4VVhWb09HdFFjVEZPYmw5WVEyTXlaRGRxY1VFM1UwNVdNR1poTUhOR2JqQklZM2RrVnpoUWVFMVRabEV0ZWs1QlpITVNGMVk1TTFsaGNWaEhTUzFUTVdoMlkxQXhaaTB4ZVVGRkdpSkJSSE55T1daUk5uWm9VR1pXVFd3d1YyNWtSSGRwYWxFNVVHRXhaRFpITTNSQg",
     "title": "PPC Account Manager",
     "company": "The I Do Society",
@@ -921,6 +963,26 @@
       "trusted-source"
     ],
     "first_seen": "2026-09-09T14:50:51.483303+00:00"
+  },
+  {
+    "id": "bEtaMGFibUlabi1NV1lScUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbWhsUzJaR1MxSkZaR1pqWVdvNWNWQlFWa2h0TWxwM1RtNWFhMFpQY0daRFVFWXhRbE5OZWpZeVRGRk5jbE5tYVU5MFFXZzNjRTVUY3pOdExWa3dVRTUzUnkxR1JtTXRPVGQ2VTIxTldsY3pNSFZ0TmtKdVVsQjBkalpzZVZsTWVVSlhSRzlXVFRoSlZWQkJhbXh5U25wbWNUVkRTSHAzT1daMWFrRnFkVmhwWjJGa1ozZ1NGemRwTjJGaGRYRlZSa2xNYzNKMVJWQTFaVE13TUVGckdpSkJSSE55T1daVGFrWTFaWGxMVGxSTVNuQkpOVFk0ZG1SbVVsRmtabTB5WjJkMw",
+    "title": "Director, Business Development \u2013 Federal Construction Herndon, VA Posted today",
+    "company": "NANA Regional Corporation",
+    "location": "Anywhere",
+    "is_remote": true,
+    "min_salary": 200000,
+    "max_salary": 225000,
+    "salary_period": "YEAR",
+    "posted_at": "2026-10-19T00:00:00.000Z",
+    "apply_link": "https://jobmesh.io/job/dadd2b6c-7e50-41a6-bf3f-a97a7089c706",
+    "description_snippet": "Akima, LLC and its operating companies represent an uncommonly broad array of specialized talent, technologies, and domain expertise, powering some of the most visible and demanding programs across all of government and industry. Driven by national priorities, Akima companies successfully support their customers at every critical point across a program's lifecycle \u2013 from strategy, design, and deve",
+    "score": 5,
+    "tags": [
+      "salary-confirmed",
+      "remote-confirmed",
+      "unverified-source"
+    ],
+    "first_seen": "2026-10-22T15:42:41.057443+00:00"
   },
   {
     "id": "bEtaMGFibUlabi1NV1lScUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURUpDV1ZSVE5uZGxXVXgyTlZwbVJVRm1jbk5YVG1WbFRIVmhiRGQxYTBWQmFXcFViRE42WkZKWmRXRnJlR0p6Y1ROM2JIQlROWE5IZDNoNVYzRTFZMmRQUkU4MWFXVkNUMmgxUldaT09UVnFVRGRXUkhoTE9URk1TbGRrTWs1U05XSkdkRGhIWHpWRVNFcGZRV04yVlRVM1V6ZzNiWHBsU1hvM05tVmFZa1pPV1ZZeVJIZ1NGMUYwTTFsaGRsTTVSUzFRVFd0UVNWQnVjekkxTmtGRkdpSkJSSE55T1daVFdFbEhUR1pqV2kxYVVUbDNiVzk2Y3pkNllYUkdjazUyV0c5Qg",
@@ -2794,6 +2856,26 @@
     "first_seen": "2026-09-10T14:41:09.552643+00:00"
   },
   {
+    "id": "RC1TajVndGxMUmVVOHZVWUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVmRKVVhsVlMyNWlhM3BYWW1OMWFFMW9PVjluT1dabGIxQnRkbUZWVjFGRlFqVlNZM0V3WlZad00xQkRla1p4ZFdjMmRIQm9TalowWTJKemFFcG9OMnR6WTJkSFpYazBibTVCV2pocFgxaFhZMlJTTWpNNFpYcHZSRnAwY21KQ2RrVnNOVVp4Y1RkbFZtczRSRVF4ZGtVNGNTMXdkM3A2UTFZd2NEUkdOSGhwY3preFNXUVNGemRwTjJGaGRYRlZSa2xNYzNKMVJWQTFaVE13TUVGckdpSkJSSE55T1daVGFsbDNZVU5WZWs5U2FqaGtiSFpSVnpFemF6UmtYMkZDZG5aQg",
+    "title": "Business Development Associate - Chandler",
+    "company": "14000 (USA) Oxford Global Resource, LLC",
+    "location": "Anywhere",
+    "is_remote": true,
+    "min_salary": null,
+    "max_salary": null,
+    "salary_period": null,
+    "posted_at": "2026-10-19T00:00:00.000Z",
+    "apply_link": "https://oxfordcorp.wd108.myworkdayjobs.com/en-US/Oxford_Careers/job/Business-Development-Associate_R26_00227",
+    "description_snippet": "Join our team and experience how we lead with passion, positivity, and accountability to deliver the Right Talent. Right Now. We create an environment where you can think big, have fun and truly make a difference. Position Summary Launch your career in sales with Oxford Global Resources. We\u2019re looking for ambitious, competitive recent college graduates who are ready to learn, grow, and build a suc",
+    "score": 4,
+    "tags": [
+      "hourly-pay",
+      "remote-confirmed",
+      "trusted-source"
+    ],
+    "first_seen": "2026-10-22T15:42:41.056459+00:00"
+  },
+  {
     "id": "NDg5dTNmcUdjQnRWWmdCZEFBQUFBQT09OkVzc0JDb3dCUVVwcFZEUjBTVmhRZWtkTmEwWlJVVzVQWjJkYVlWcEhhRk55VFVSVExWWndTVmhYUTFWUGVWZDJORll4VTBaWE5FSkdlako2T0hSR01rRjJOekpWWTFvM09GZDJNa2RYUmxCSWVVTkpiMDQzY0ZoVWRrSlBUbXhmV0VWTE16ZFJRbTB3YkVOSU9WQnlVWE0wYVY5NFVuUTVibmhWU0V0dVRIcFpjbGhwTmpGWkxUZG1kMFpmY1Y5UE9EWVNGazlPTTFsaGNFTkpTV0pxWW10UVNWQm5jV1oyVlZFYUlrRkVjM0k1WmxKU09FNXdhbk5xWDJkVFFVbHVjMHhoTFdoUVlqa3djbWRUU21j",
     "title": "Fedex Customer Service Jobs Remote - Part-Time (Hiring Now)",
     "company": "Fedex",
@@ -3557,6 +3639,46 @@
       "unverified-source"
     ],
     "first_seen": "2026-09-17T15:21:49.788223+00:00"
+  },
+  {
+    "id": "MHFEUGhZOGhyLWktY0Z5MUFBQUFBQT09OkVzc0JDb3dCUVVwcFZEUjBTVmh1UW5ORU1XWlpWMlpIY1ZkYWFVTnJZM1IwWVVwcWVrbGlNbTl5VGtWclRFdHdOSGxvUnpnNGQzWkVjVmN3WVdkblpsRXlMVXBXUkY5Q09WTmhPSFl0YUVGTFlWaHVXVU5DVVVsaFNtcGtkbkZSTVdaVVowWjVabTFwUzJwYVJGbGtNbWhuTlhoblpVRktjamQ2UlhneVlqaDNNbkJET1hVMWVURlJTelIxYVdaYWJHTVNGalpwTjJGaGRHSnJRa2xNTWpGelVWQm9USEZIUlZFYUlrRkVjM0k1WmxGelRsRkNaV2t3UkdneGFXWnBjREJ4VGpndGVWZ3piRTQwV0dj",
+    "title": "Customer Service Representative - Part-Time",
+    "company": "LifeMD",
+    "location": "Anywhere",
+    "is_remote": true,
+    "min_salary": null,
+    "max_salary": null,
+    "salary_period": "HOUR",
+    "posted_at": "2026-10-19T00:00:00.000Z",
+    "apply_link": "https://www.ziprecruiter.com/c/lifemd/Job/Customer-Service-Representative-Part-Time/-in-New-York,NY?jid=8e8f97d20de778f0",
+    "description_snippet": "About Us:\n\nLifeMD is a leading provider of virtual primary care, telehealth, and specialized treatment programs serving hundreds of thousands of patients nationwide. Our vertically integrated platform combines 50-state licensed providers, in-house pharmacy and lab integrations, and proprietary technology that enables safe, high-quality, and affordable care.\n\nAt the heart of this transformation is ",
+    "score": 3,
+    "tags": [
+      "hourly-pay",
+      "remote-confirmed",
+      "trusted-source"
+    ],
+    "first_seen": "2026-10-22T15:42:36.894445+00:00"
+  },
+  {
+    "id": "X0F1NldVU3Z2aHFIdnBLeEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUSGM1Yms1clpWSkdTMGgxVVhOUmMwaEdUbWM1YmxSSldURmZjSGxwU0UxNU1GbENkME5IUjNOMU1FbG1hM2xWVEZOaVdWTmlRMWxRY0hSRlRtZDVWVTFLVDFGdlFYYzRaMXBvWkZvMmFITkxWamhMYjJwWU4xRnVUMU4wU1VOMFMxVXdZUzFSV1VNek5XeDFZblpMWTB4UGVYQm5kbmhLWkdsbVYzQm9aV0prZVRSRU9IVVNGemRwTjJGaGRYRlZSa2xNYzNKMVJWQTFaVE13TUVGckdpSkJSSE55T1daUmFHRlRlVGhtUzNrNGNGQlVSVk41UjFnMWVuVnRhRGN4VGpKMw",
+    "title": "Sports Partnerships & Business Development Associate",
+    "company": "LGX",
+    "location": "Anywhere",
+    "is_remote": true,
+    "min_salary": null,
+    "max_salary": null,
+    "salary_period": null,
+    "posted_at": "2026-10-20T00:00:00.000Z",
+    "apply_link": "https://www.linkedin.com/jobs/view/sports-partnerships-business-development-associate-at-lgx-4480700685",
+    "description_snippet": "About LGX\n\nLGX is an emerging sports technology platform built to give everyday athletes the recognition and experience they deserve.\n\nOur platform brings live scorekeeping, player statistics, athlete profiles, game streaming, highlights, and leaderboards together in one place.\n\nCurrently in beta and preparing for our official launch, we're looking for a motivated Business Development Representati",
+    "score": 3,
+    "tags": [
+      "pay-type-unclear",
+      "remote-confirmed",
+      "trusted-source"
+    ],
+    "first_seen": "2026-10-22T15:42:41.056861+00:00"
   },
   {
     "id": "UkgtazBQSTFBTmJsek9vdEFBQUFBQT09OkVzc0JDb3dCUVVwcFZEUjBTV3hLVldKNU5HNURVMDFvZUVkUU5qazRNbGQwVm1JeVpVTjBVSGhxUzFGbGRGVXpVekJJWW5OTGFuSTRlREF5ZDJGbFV5MXZWMUUxY1cxdU5tMVBNalJSUW05alVuVmplVzFDUm1WVlYybzBVWGRPV1dacFMwNXZNRXh0TFdSYWREQnNZVFV5Ym10VFJXMTFSSEJuUkdka05HRmZNazlFUXkxc1p6SlNiM2QxVWpsV1pFa1NGazlPTTFsaGNFTkpTV0pxWW10UVNWQm5jV1oyVlZFYUlrRkVjM0k1WmxSV1NIVnRTV2g2VlVGQldFNUxhM0o1TjNkcmVYYzRjWFZXUWxF",
@@ -5757,6 +5879,206 @@
       "trusted-source"
     ],
     "first_seen": "2026-09-09T14:50:51.483373+00:00"
+  },
+  {
+    "id": "aGhVb0huZUplUEtfeHQtZUFBQUFBQT09OkVzc0JDb3dCUVVwcFZEUjBTMGxoYkRKMlIyVXhUR2RaTlVaV1lUTm1WamxzY2xaWk5qZEdZVzlSYWpsVGRHZHFaRzVHTTBzemFrUmtNR0pUUlhOdVJsOVZja1ExUXpOT2VubGlaVzkzTkVSM1VWSmZSVWd4ZDNWM2RHNWxkRU50Y2s1Vk5uRkNXVjlYYUd0UlpIRnVlbWhVV1cxQ1RWVnpkVWRmV0hKWFRHb3dURVZYWDBKUmMzWXljRzR6Y1UweGVGUVNGalpwTjJGaGRHSnJRa2xNTWpGelVWQm9USEZIUlZFYUlrRkVjM0k1WmxGSWMybzRZemxTTTIxeVpWVjFVWEJTYW0xNlZFUXdTR0ZvYTBF",
+    "title": "Customer Service Representative Agent Work From Home - Part Time Focus Group Panelists - Now Hiring",
+    "company": "ApexFocusGroup",
+    "location": "Anywhere",
+    "is_remote": true,
+    "min_salary": null,
+    "max_salary": null,
+    "salary_period": "HOUR",
+    "posted_at": "2026-10-21T00:00:00.000Z",
+    "apply_link": "https://www.snagajob.com/jobs/1093852843",
+    "description_snippet": "Now accepting applicants for Focus Group studies. Earn up to $750 per week part-time working from home. Must register to see if you qualify. No Customer Service Representative Agent experience needed.\n\nCustomer Service Representative Agent Work From Home - Part Time Remote Focus Group Panelists\n\nOur company is seeking individuals to participate in National & Local Paid Focus Groups, Clinical Trial",
+    "score": 2,
+    "tags": [
+      "hourly-pay",
+      "remote-confirmed",
+      "unverified-source"
+    ],
+    "first_seen": "2026-10-22T15:42:36.893059+00:00"
+  },
+  {
+    "id": "N3llclEteFpJTHJ3MEF6REFBQUFBQT09OkVzc0JDb3dCUVVwcFZEUjBTV2t5ZEdVeFkzZzVYMUp4U2tkUGFHYzFiRFJ1VUc0MFREbFZlbmxpUlVaUWJXWjFaVzk1YXpoRU9FOWtORVJXYVVSRlNuVjRhVUUxY1RGdE0wc3lOa1JqVUZsT04zSkxjalIxTUY5UVpsWkVja054VjJSWk1VOHpWVUU0U0RKWlgweHhkWFZwV25OaFdIbHVTbEpCZGpGc1ZWVm5aV3h0UldkcVZUVkpaMng0ZFVVd1Nsb1NGalpwTjJGaGRHSnJRa2xNTWpGelVWQm9USEZIUlZFYUlrRkVjM0k1WmxOSVpqVlNTbWQzUkRORlkzRldSR3hLZURWT05FUTJUbGhGY0dj",
+    "title": "Remote Online Chat Representative for Moms (Part-Time)",
+    "company": "The Elite Job",
+    "location": "Anywhere",
+    "is_remote": true,
+    "min_salary": null,
+    "max_salary": null,
+    "salary_period": null,
+    "posted_at": "2026-10-20T00:00:00.000Z",
+    "apply_link": "https://jobmesh.io/job/3954af4e-97d8-420a-9c89-56029222084c",
+    "description_snippet": "Job Summary\n\nThe Elite Job is seeking a friendly, professional, and dedicated Remote Online Chat Representative to join our team. This part-time position is ideal for moms looking for flexible work-from-home opportunities. As a Remote Online Chat Representative, you will serve as the primary point of contact for customers seeking assistance through live chat channels. Your role will involve provid",
+    "score": 2,
+    "tags": [
+      "hourly-pay",
+      "remote-confirmed",
+      "unverified-source"
+    ],
+    "first_seen": "2026-10-22T15:42:36.893305+00:00"
+  },
+  {
+    "id": "b0tQZVZOQzIxdzBmVWdGbkFBQUFBQT09OkVzc0JDb3dCUVVwcFZEUjBTVEpJZDA5bWRuRmZXVGRDTm1GeGEzUnJlRXRuVDNRelMwTkNlblpsZFdOT1RrTnBhVWgwT1dkT1RFdHpiemxJWlc1WmVXdGxjV3RMT1dVMGRHcG9NREp3ZFdWWkxXWklYM2RPT0RCWllrVkRjVTV5U1doWlZEVTJaMTlwY1hGcmN6ZHFaRkY2VURWSlpIaG9PVmRsVmxoVlZ6UTRVRGxSWVdKNlZETmlZMDVXYm5VNE5GY1NGalpwTjJGaGRHSnJRa2xNTWpGelVWQm9USEZIUlZFYUlrRkVjM0k1WmxOeGNraHVUVFJNTFZkeFUxcGpWamRNZVRZd2NWTmxNMVl5WWxF",
+    "title": "Customer Service Representative Agent Work From Home - Part Time Focus Group Panelists",
+    "company": "ApexFocusGroup",
+    "location": "Anywhere",
+    "is_remote": true,
+    "min_salary": null,
+    "max_salary": null,
+    "salary_period": "HOUR",
+    "posted_at": "2026-10-20T00:00:00.000Z",
+    "apply_link": "https://www.snagajob.com/jobs/1121945164",
+    "description_snippet": "Now accepting applicants for Focus Group studies. Earn up to $750 per week part-time working from home. Must register to see if you qualify. No Customer Service Representative Agent experience needed.\n\nCustomer Service Representative Agent Work From Home - Part Time Remote Focus Group Panelists\n\nOur company is seeking individuals to participate in National & Local Paid Focus Groups, Clinical Trial",
+    "score": 2,
+    "tags": [
+      "hourly-pay",
+      "remote-confirmed",
+      "unverified-source"
+    ],
+    "first_seen": "2026-10-22T15:42:36.893543+00:00"
+  },
+  {
+    "id": "cnpCeWdYOTFfVXZvU2k4MkFBQUFBQT09OkVzc0JDb3dCUVVwcFZEUjBTalJMZDJOTlJqZzFTemRIV2twUlEyZHZObFJxUzNocGVIZGxRalpsUVhabVlWODNhbGRoTnpoVFJGSlJNelJuVlRrMlN6bDRPVTV5Y0MxSVpEZFJkM0JYWTBOcVlqZHFSMHhsZUZCbE0yaFpObkpDVkdkUlJtRnJZelJKTkZWaWJGUm1OazF6WmpOMVpYUkxTa2xvY0ZNek1XSTJSbGxtWVVWTlFrbGpZWE5qZDJJdFpqTVNGalpwTjJGaGRHSnJRa2xNTWpGelVWQm9USEZIUlZFYUlrRkVjM0k1WmxKTGVVSlFNRU5QWjA0MUxURTRiWFJNTTFWVGRqQnJVR1IyU2xF",
+    "title": "Part-Time Focus Group Participant - Work From Home",
+    "company": "ApexFocusGroup",
+    "location": "Anywhere",
+    "is_remote": true,
+    "min_salary": null,
+    "max_salary": null,
+    "salary_period": "HOUR",
+    "posted_at": "2026-10-20T00:00:00.000Z",
+    "apply_link": "https://www.snagajob.com/jobs/1093864977",
+    "description_snippet": "Now accepting applicants for Focus Group studies. Earn up to $750 per week part-time working from home. Must register to see if you qualify. No Customer Service Representative Agent experience needed.\n\nCustomer Service Representative Agent Work From Home - Part Time Remote Focus Group Panelists\n\nOur company is seeking individuals to participate in National & Local Paid Focus Groups, Clinical Trial",
+    "score": 2,
+    "tags": [
+      "hourly-pay",
+      "remote-confirmed",
+      "unverified-source"
+    ],
+    "first_seen": "2026-10-22T15:42:36.893821+00:00"
+  },
+  {
+    "id": "eUx1di1zSWNhMHE4TFpsU0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbXd4ZEdzd1JraExlR3BxZEhoRWNFSTBXbXA2UjE5d2QxOUVUM3BZUzJzM2FXdDViazFQUW5oWlMyczNlVXBDZUZZMllYRlhNMlpCYUVwR2RUbHJSbVZuZDJreE1IQndOMFV0UTFsRVdrRTJVM1pFYTNaMVYxWldZMDkxYjBvMmRIUkVhM2RKVUVKTFNXMVdTM0owTFhwQ1RFOU9NV2RhVG5GVVQwYzVSM0JQTW01NloxRVNGemRwTjJGaGRYRlZSa2xNYzNKMVJWQTFaVE13TUVGckdpSkJSSE55T1daUmVXdFNSakZEZUhCWlpURlhZbHBrYWtOc1oydERWbmd0ZFdaQg",
+    "title": "Remote Business Development Partner (Contract) - Commission-Only",
+    "company": "Goldstone Partners Inc",
+    "location": "Anywhere",
+    "is_remote": true,
+    "min_salary": null,
+    "max_salary": null,
+    "salary_period": null,
+    "posted_at": "2026-10-19T00:00:00.000Z",
+    "apply_link": "https://jobmesh.io/job/99e5e2ed-f001-4bfd-b130-63298b24d28e",
+    "description_snippet": "Goldstone Partners is seeking a part-time Business Development Partner for US Remote. This 1099 role focuses on opening doors, building relationships, and closing new search agreements with organizations needing flexible recruiting.\n\nCompensation is commission-only, with $1,000 for each new client at first payment and 15% of success fees. Flexible schedule and a virtual office support independent,",
+    "score": 2,
+    "tags": [
+      "pay-type-unclear",
+      "remote-confirmed",
+      "unverified-source"
+    ],
+    "first_seen": "2026-10-22T15:42:41.055974+00:00"
+  },
+  {
+    "id": "YXBXYlpldjlPQWVGalI3N0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTV0Z4VDBSdldHWnBia3cxVkhaek1EQnBRa2xtYkhsNWIxVmxWMjV2U2xWbGJscFZhMWRqWkU1UVEwTkZZVUpETVV0dFVsRnlhMFE1YUdseVlXRkZlbFpIVjNaVFlXRTRhbVV0Tm1GV2ExRjNZWGxEVG5BMFptRlFiVXhwY0hkYVdUSXlTbEZ0WWxFMFNWRm9hbGxIWkVOTGRIRmtYMHd5T0dKR2JrWlRMV3R6TlZaUmJ6UVNGemRwTjJGaGRYRlZSa2xNYzNKMVJWQTFaVE13TUVGckdpSkJSSE55T1daVVkxTTBWRlJoYW1scGJEUlJOV1F6U205SGFTMXdUbEZTWkZkQg",
+    "title": "REMOTE BUSINESS DEVELOPMENT MANAGER - EARN 6-7 FIGURES COMMISSION ONLY PART/FULL TIME- Akron, OH",
+    "company": "Share Community Development Corp Scdc Houston",
+    "location": "Anywhere",
+    "is_remote": true,
+    "min_salary": null,
+    "max_salary": null,
+    "salary_period": null,
+    "posted_at": "2026-10-20T00:00:00.000Z",
+    "apply_link": "https://jobmesh.io/job/26dcc856-22d6-453b-b9a8-565a043f3929",
+    "description_snippet": "Are you an entrepreneur at heart, frustrated by the income caps and bureaucracy of a traditional career? Are you looking for a challenge where your ability to connect with people is directly tied to an uncapped, 6-figure+ earning potential?\n\nS.H.A.R.E. Community Development Corp (SCDC) is seeking a rare breed of Business Development Manager to join our mission in a true partner-like capacity. We a",
+    "score": 2,
+    "tags": [
+      "pay-type-unclear",
+      "remote-confirmed",
+      "unverified-source"
+    ],
+    "first_seen": "2026-10-22T15:42:41.056233+00:00"
+  },
+  {
+    "id": "ZW5DdWdEMUkzVWJ1RC1CZUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTME00YW00MVFXRTJUWGxCVTBWS1VEaDNWVVZhTjA1b1JsOW9PRWRwV0VFeFUzTkphSGMyTjA5dFF5MU9ZVWhJZUVjemExZFNMVlpzV0dVd1lrcE9kVEpFV1UxM1RXdEthM3BQVVU1UU9YRTBhVGhUYkRCSmNrWnNZVkJ0TlZBNVozVkVVbTVyVDNBMVJXUmZTMWhHY1Y5MlNsSnRibkF3WDJSTFIzZFFNVUZZVW5NM2N6a1NGemRwTjJGaGRYRlZSa2xNYzNKMVJWQTFaVE13TUVGckdpSkJSSE55T1daU09IVlZjamgxYWtoelVIVnFhV3hwUms1MllsUktVMUp3UjJaMw",
+    "title": "Manager, Business Operations (Business Development)",
+    "company": "Jerry",
+    "location": "Anywhere",
+    "is_remote": true,
+    "min_salary": null,
+    "max_salary": null,
+    "salary_period": null,
+    "posted_at": "2026-10-19T00:00:00.000Z",
+    "apply_link": "https://jobgether.com/offer/6ad6a875a8fae18ba2cec215-manager-business-operations-business-development",
+    "description_snippet": "This a Full Remote job, the offer is available from: North America, United States, Canada, California (USA), Illinois (USA), Massachusetts (USA), New York (USA), Texas (USA)\n\nYou could work anywhere. Why us?\n\u2022 Join a pre-IPO startup with capital, traction and runway ($240M funded | 60X revenue growth in 5 years | $2T market size).\n\u2022 Work closely with brilliant leaders and team mates from companies",
+    "score": 2,
+    "tags": [
+      "pay-type-unclear",
+      "remote-confirmed",
+      "unverified-source"
+    ],
+    "first_seen": "2026-10-22T15:42:41.056754+00:00"
+  },
+  {
+    "id": "TVMwbzI5TUh5SWhmbXl6a0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURU52UmtaUFdIbEhlRjlLV25wV1kwaEhUa2Q1WmxWVFpsbEJZbmRZYm5VeFRsQmlZWFp4UTI5clMwSktOemRQUzBaVFpWWndZbFV4VEU5UGRFcFZheTEyYW5kWmNESnNlVkJIYkZoSWFHdGxaV1F3ZEVwVWRISlhUSGwzY1VwR1JuWm5ZVkZaU2pCb01rSnNSRVZSWW1KUGF6WkRWbmxyZDBWMlh6WlVOREJPUTB0UlptTVNGemRwTjJGaGRYRlZSa2xNYzNKMVJWQTFaVE13TUVGckdpSkJSSE55T1daVVlTMXpWR3cxVVdSNU1EVlhZVXBNTlhWWWVEUjRkVXhvTUc1Ug",
+    "title": "Government Contracts /Business Development Specialist (Part-Time) (Bro - business / management - man",
+    "company": "Hirepros.pro",
+    "location": "Anywhere",
+    "is_remote": true,
+    "min_salary": null,
+    "max_salary": null,
+    "salary_period": null,
+    "posted_at": "2026-10-19T00:00:00.000Z",
+    "apply_link": "https://jobmesh.io/job/409adc3e-f71e-4e18-971e-b74ed2de20f1",
+    "description_snippet": "Government Contracts /Business Development Specialist (Part-Time) (Bro - business / management - manager job... job title: Business Development Specialist Government Contracts & Business Development Specialist (Part-Time) Location: In-Person (Brooklyn, NY) or Remote Schedule: Part-Time (20\u201325 hours per week) Working Hours: Must be available during U.S. Eastern Time business hours Compensation: Bas",
+    "score": 2,
+    "tags": [
+      "pay-type-unclear",
+      "remote-confirmed",
+      "unverified-source"
+    ],
+    "first_seen": "2026-10-22T15:42:41.056956+00:00"
+  },
+  {
+    "id": "NTlQVUlIbl9wckt5RkhMOUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVFE1UjBSUGQxWnNlRkJRVEdVNE1EaHJNVTVYZDBvd2VrRm9jMVJxTWtSMldXMXRNMkZDTmtGU1VVMW9kVlZZUm14aWNuYzNlR3hCZUV4WWVEQXhhVWhLZDBKWGNVcEVkalZtYVdsQ1VXRTFhazlWZDBRMFZXb3dWSEU0VGtOcVVuTlhja296TUMxR05XVklYMGhWVDNoeFJ6bEZObWt0U1RGVlFuRmFaMHg1Vkc5R2RGVVNGemw1TjJGaGMxUnhURXgxUjNkaWExQXpOWEZqTkZGVkdpSkJSSE55T1daU1oxSlRaSGxsZVVFdFZURnJRbkYzWVdsaVJHOHpWRkYxZVZwUg",
+    "title": "Client Success Manager",
+    "company": "T-Mobile",
+    "location": "Anywhere",
+    "is_remote": true,
+    "min_salary": null,
+    "max_salary": null,
+    "salary_period": null,
+    "posted_at": "2026-10-20T00:00:00.000Z",
+    "apply_link": "https://careers.t-mobile.com/client-success-manager/job/C80C784C46D0EFB16709EE40DD03718B",
+    "description_snippet": "At T-Mobile, we invest in YOU! Our Total Rewards Package ensures that employees get the same big love we give our customers. All team members receive a competitive base salary and compensation package - this is Total Rewards. Employees enjoy multiple wealth-building opportunities through our annual stock grant, employee stock purchase plan, 401(k), and access to free, year-round money coaches. Tha",
+    "score": 2,
+    "tags": [
+      "pay-type-unclear",
+      "remote-confirmed",
+      "unverified-source"
+    ],
+    "first_seen": "2026-10-22T15:42:50.464932+00:00"
+  },
+  {
+    "id": "SWFTaml4dk1wZkQtUjZ5LUFBQUFBQT09OkVzc0JDb3dCUVVwcFZEUjBTMlJJTTFObU1EZDZXWE0wU2t0dk56TmZSRWhUT0hNNGQyTXlNRkpoZDNscGJtdEhjVVozZEVodlJITXRkbGxEYUdrME0yVldiMVpoU0VKbmRuWm5TVkYxVWw5VFZUWllkR3BhWWxOTlgzQmtUbDlIWkZndFVXbGFUa1k0Tm5NdGRWSndTR2c1Y0hWM1JrZHpZbEl4UlVOelNVY3hUVzE2WkdweVowVkdhV1kwTlhGTVVrVVNGbDlETjJGaGRuUllPWFJ1VjNoQkxYRnVPWGxKUTBFYUlrRkVjM0k1WmxGMWNuUlFaMFZwTTNoTVVrSm5PV1YxTkUxRk5uaHhha1oxV0ZF",
+    "title": "[Remote] Junior Account Executive",
+    "company": "HireNode",
+    "location": "Anywhere",
+    "is_remote": true,
+    "min_salary": null,
+    "max_salary": null,
+    "salary_period": null,
+    "posted_at": "2026-10-19T00:00:00.000Z",
+    "apply_link": "https://hirenode.g2k.iblogger.org/remote-jobs/remote-junior-account-executive-1",
+    "description_snippet": "Note The job is a remote job and is open to candidates in USA. Vintage and Iconic African American Everything is seeking a Junior Account Executive to support client and partner relationships. The part-time remote role assists with brand partnerships, sponsored storytelling campaigns, proposals, reporting, documentation, and outreach for cultural and educational initiatives. Responsibilities Suppo",
+    "score": 2,
+    "tags": [
+      "pay-type-unclear",
+      "remote-confirmed",
+      "unverified-source"
+    ],
+    "first_seen": "2026-10-22T15:42:54.415781+00:00"
   },
   {
     "id": "V2EwemZiSzE5dzdWeVY1S0FBQUFBQT09OkVzc0JDb3dCUVVwcFZEUjBURXRGTlZkVFlYTmhRVEJMWlZWSVZYcGZhbGwyYkhKTVdHbENMVmhKZWxCeGQxWnNlalJVWmtGV2VIaFBUek5tZW5KV2FtRkRZblZDZDNkUU5rWkZhR2h3TVROek1UQkxRMjFETlZGdFNqTjNXak5qVEc4NFJrazVNRlZhVDJkcGVucEhTSGhEUVdNeWFEazBNVE4wWWpkM1pIVklSRnAxTVhkQldEZFpSVlpDTmpST1NrVVNGazlPTTFsaGNFTkpTV0pxWW10UVNWQm5jV1oyVlZFYUlrRkVjM0k1WmxOMGNGOHpTalpWZG5Vd1dsQTJSMUZJVGtWSFdFSm9lRkZFUjNj",
@@ -9765,6 +10087,66 @@
     "first_seen": "2026-09-09T14:51:08.489536+00:00"
   },
   {
+    "id": "MEVacDI2clpIQ1ZLRHh6ZUFBQUFBQT09OkVzc0JDb3dCUVVwcFZEUjBTV2xrWjFacGNsSTBhRkZpTW5WQlZtNWFZV2xuU3psVFJXeHZZMkZvYVdJMU9WOXNSbnBNWkdkWmNHSTJkMGxSTTNVdGMySTFZMjlNU1c5WVJqWTFYMTh0WWpCa1dGWjRUMDFsTmtSaGRsVmFSV2xHYjBoaFRFRnZlbUZ0WDNkclNGQmxlUzFxT1RONGJsRlJVMVZNTXpCQk1XcFFhVXB3VmpkdWVGTjNlVm96UlhocmRUUVNGalpwTjJGaGRHSnJRa2xNTWpGelVWQm9USEZIUlZFYUlrRkVjM0k1WmxKME1WQXRkRE16YVdkSFF6WnVZMXBTWlc4NWNqWnVhWE4xUTBF",
+    "title": "Customer Service Representative - Part Time (Remote)",
+    "company": "Live Chat Station",
+    "location": "Anywhere",
+    "is_remote": true,
+    "min_salary": null,
+    "max_salary": null,
+    "salary_period": null,
+    "posted_at": "2026-10-19T00:00:00.000Z",
+    "apply_link": "https://www.writerremote.com/customer-service-representative-part-time-remote-3/",
+    "description_snippet": "We're hiring Customer Service Representatives to provide support and assistance to individuals with information and inquiries. This is a fully remote position with flexible part-time hours.\n\nRoles:You'll be responsible for assisting customers with information requests, providing accurate and consistent support, and delivering quality customer service across our channels.\n\nRate:Competitive entry-le",
+    "score": 1,
+    "tags": [
+      "pay-type-unclear",
+      "remote-confirmed",
+      "unverified-source"
+    ],
+    "first_seen": "2026-10-22T15:42:36.893372+00:00"
+  },
+  {
+    "id": "dDVGYi1rVzlyeG9vNWxlYkFBQUFBQT09OkVzc0JDb3dCUVVwcFZEUjBTbUpGY1ZKMlFqbExaekJNVVRaemFFNVRSVTB4ZEU5blFWRnZVamhSWldGWWRHNDBSRjlqYVVoWllsOTRTMGh1U2tKVE4yMUlkM2xXUVZCdFJrWnhPVFp6VjJ0b01WODNOM1p4Ukhsd1pYaHZNMXBCWjJKR05FbFZkbEZxVGpseGFUQkJjVzlrVkZCc2VFMXZYMUJhT1hwaU9Ha3lVRnBMUWxZNGN6Sk5aRFkxVFdwMVpUa1NGalpwTjJGaGRHSnJRa2xNTWpGelVWQm9USEZIUlZFYUlrRkVjM0k1WmxKM00xZDFMVFZYYW1WYVZXUnZiMnBpV2xVeFEwcDJOSFJaWjBF",
+    "title": "Customer Care Associate - Retail & Hospitality Backgrounds Welcome (Remote)",
+    "company": "Jerry",
+    "location": "Anywhere",
+    "is_remote": true,
+    "min_salary": null,
+    "max_salary": null,
+    "salary_period": null,
+    "posted_at": "2026-10-19T00:00:00.000Z",
+    "apply_link": "https://jobgether.com/offer/6ad6a875a8fae18ba2cec209-customer-care-associate---retail-hospitality-backgrounds-welcome-remote",
+    "description_snippet": "This a Full Remote job, the offer is available from: United States, Florida (USA), Georgia (USA), Nevada (USA), Texas (USA), Virginia (USA)\n\nThis job is what Jerry is all about: helping our customers take care of their most important assets, their car and home, with the kind of warmth and speed they didn't expect from an insurance company.\n\nCar and home are people\u2019s most important assets, yet the ",
+    "score": 1,
+    "tags": [
+      "pay-type-unclear",
+      "remote-confirmed",
+      "unverified-source"
+    ],
+    "first_seen": "2026-10-22T15:42:36.894282+00:00"
+  },
+  {
+    "id": "eVdXbnFubndGNjFQTEZ6cUFBQUFBQT09OkVzc0JDb3dCUVVwcFZEUjBTVVV4UkY5bU9IUjVPRGRwUlVWMlUwVlJTMGxzT1dsNVN6bGhYM1F0TjJoNVFrSXlhVXQyYVdrMmFITnBSMFJCWWpsaVJGUjZPVU5MYTBoSGJWRmpaa2R4UVZwcmMycEJZVkJOWnkweFZ6UmhXVkpRYzBKMGVsbzRNR2RVY1RocU1UZFhXSFZCVFVsMGRIZHBWWE5tV1ZJeVZIaERNRFIzVERWclEybGFTVzVIY1RWUlowY1NGalpwTjJGaGRHSnJRa2xNTWpGelVWQm9USEZIUlZFYUlrRkVjM0k1WmxGRlpXcEhSRmd6Um14dk1WRlhkRFJTVFdKeWVGSkpYMEZQUkZF",
+    "title": "Customer Service Dispatcher",
+    "company": "ProLogistix",
+    "location": "Anywhere",
+    "is_remote": true,
+    "min_salary": null,
+    "max_salary": null,
+    "salary_period": null,
+    "posted_at": "2026-10-19T00:00:00.000Z",
+    "apply_link": "https://www.virtualvocations.com/job/customer-service-dispatcher-3306709-i.html",
+    "description_snippet": "Providing customer support through phone and email, the part-time hourly Customer Service Dispatcher will manage shipment updates, assist internal and external partners, and ensure excellent service delivery.\n\nKey Responsibilities\n\n\u2022 Answer incoming calls and deliver excellent customer service\n\n\u2022 Track, trace, enter, and update shipments while responding to customer inquiries\n\n\u2022 Make outbound call",
+    "score": 1,
+    "tags": [
+      "pay-type-unclear",
+      "remote-confirmed",
+      "unverified-source"
+    ],
+    "first_seen": "2026-10-22T15:42:36.894337+00:00"
+  },
+  {
     "id": "LVQ3NGlMcXZmSmxfbXlkdkFBQUFBQT09OkVzc0JDb3dCUVVwcFZEUjBTbk5OZWxoVmVUZE9PWEJSV0ZBMmFVNHdNRTlmVWpodFdHMHpVSHB6YjNOdVMzVlNRVkZSYVhsUFRWQjFabVZvTFVvemIyRlVXbWRhYVVReGIxTXhkRjh6UTJVMFUwSjJXamQwV0hNNVFsbG9TbFZtTmkxWmJGUXplVVpXWm1KM09FeHFiVU5OZUdKRllWaFVkWEJxU0MwNVNWWnZNM0Y2VmxRNFlWSXhiVUV4V25SalJHa1NGazlPTTFsaGNFTkpTV0pxWW10UVNWQm5jV1oyVlZFYUlrRkVjM0k1WmxNMFZYTjFOWGRXTmxaRlkwNWpRMlV5VUVwM2VGQnFSMVJJYWtF",
     "title": "Work from Home Customer Service Representative | No Experience Required | START ASAP | Most Responsive \u2122",
     "company": "AO Globe Life",
@@ -11641,6 +12023,66 @@
       "low-quality-listing"
     ],
     "first_seen": "2026-09-17T15:21:27.753078+00:00"
+  },
+  {
+    "id": "QVVnc2lnOU56RjQxZ083MUFBQUFBQT09OkVzc0JDb3dCUVVwcFZEUjBURWc0TkRGMmExWmtkVWRSUWt4aGRVUlFUWGRSYW5OTFQxZ3lNa3BYUTJaVWVYVlNMV2hqTFVSNFRuVjFjazlqUzJKS2NtVTJkVzlMVG5oTFZVMWFSVnBoZFRCTllWSkhOV2RIUjFKUlRqWkJjRzlIYkZWRmJuWXhRVGcxTVZKZlUwWjJiVmhZTFZwelp6QnhSVWgwWDB3eWNVbHNTMUJyWTE5VVNHaFRjblp3UWxCU01GQVNGalpwTjJGaGRHSnJRa2xNTWpGelVWQm9USEZIUlZFYUlrRkVjM0k1WmxKUGFrTnhhMHRGT1cxNFRVNTBjekZVTkhZNVRFVkJNSFZWYVVF",
+    "title": "**Part Time Customer Care Representative \u2013 Thrive at blithequark**",
+    "company": "remote quest jobs",
+    "location": "Anywhere",
+    "is_remote": true,
+    "min_salary": null,
+    "max_salary": null,
+    "salary_period": null,
+    "posted_at": "2026-10-19T00:00:00.000Z",
+    "apply_link": "https://us.remotejobs.dedyn.io/job/1194613",
+    "description_snippet": "Are you passionate about delivering exceptional customer experiences and helping businesses thrive? Do you have a knack for problem-solving, communication, and teamwork? If so, we're excited to introduce you to reputed company part-time Customer Care Representative opportunity at blithequark, a leading provider of innovative inventory management and reporting tools for retailers and reputed compan",
+    "score": -2,
+    "tags": [
+      "hourly-pay",
+      "remote-confirmed",
+      "low-quality-listing"
+    ],
+    "first_seen": "2026-10-22T15:42:36.893995+00:00"
+  },
+  {
+    "id": "TkRhdmQ4cTl6X044ZVA2NkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTM0pCU1ZWd2ExYzBjbTFNVG5Bd1RYVXhWa2xRVFhwS1V6bEVNVkZoYjFacVZXVXlla2hDYzJwS2RsSjRXRUoxWVcxYVdGRjJORlJFYUZSR1RFdHVabmx2VEV0QlFVbzJNM3A0VEUxUmNGVTROWE15WDNkV1ZYRlFSVkJuWmpoSWRUTmhMV0ZYZG14VmVsQk5hSFZKT1VzdGN6bEtNRzh3YVVSRGVrUnZTblZ5VGtFME9IRVNGemw1TjJGaGMxUnhURXgxUjNkaWExQXpOWEZqTkZGVkdpSkJSSE55T1daU1drMWxiVFpJVlcxU2VVSTBiRzVzYmpOWE5sSmxSbmRRYWxWMw",
+    "title": "**Remote Customer Success Specialist \u2013 Full Time & Part Time \u2013 Elevate Customer Experience with arenaflex**",
+    "company": "remote quest jobs",
+    "location": "Anywhere",
+    "is_remote": true,
+    "min_salary": null,
+    "max_salary": null,
+    "salary_period": null,
+    "posted_at": "2026-10-19T00:00:00.000Z",
+    "apply_link": "https://us.remotejobs.dedyn.io/job/work-from-home-customer-service-representative-full-time-part-time-9-1",
+    "description_snippet": "---\n\nIntroduction\n\nIn today\u2019s fast\u2011moving digital landscape, customers expect instant, accurate, and empathetic support. arenaflex is at the forefront of redefining customer service by blending cutting\u2011edge technology with a human touch. We\u2019re looking for a dedicated Remote Customer Success Specialist who thrives in a flexible, high\u2011impact environment and is passionate about turning reputed compan",
+    "score": -2,
+    "tags": [
+      "pay-type-unclear",
+      "remote-confirmed",
+      "low-quality-listing"
+    ],
+    "first_seen": "2026-10-22T15:42:50.465113+00:00"
+  },
+  {
+    "id": "dWpuVDdHWUNFZEZHRVJNMkFBQUFBQT09OkVzc0JDb3dCUVVwcFZEUjBTa3BWYVhsWE1ITkNXR2hZUnpGcmFVd3djV0YzVkRKNk5FWmpaak5pYVRCNk5rMVNabGR1VTA5Sk1rZENZVXQ2Vkd0T2RXVnFVVVJJVFZsRVdXbExRbEkzTVRGSU9FcEhNbXBmTnpCT2QxVmxSWGs1V201RGJFdFFiMk13WTFwa1VFSkZPRVZuYTNWNVluTTRMV2RzUW1GNk5GUlJiVXhuVlhoc2FqUjVabE5rVkY5Q1N6QVNGbDlETjJGaGRuUllPWFJ1VjNoQkxYRnVPWGxKUTBFYUlrRkVjM0k1WmxSQ1RsYzBkSGRpYjJSWmNGWnNOSFJrZUVOSVZrTnpVbGxPVjBF",
+    "title": "Account Manager in freier Mitarbeit (m/w/d)",
+    "company": "remote quest jobs",
+    "location": "Anywhere",
+    "is_remote": true,
+    "min_salary": null,
+    "max_salary": null,
+    "salary_period": null,
+    "posted_at": "2026-10-19T00:00:00.000Z",
+    "apply_link": "https://us.remotejobs.dedyn.io/job/2900739",
+    "description_snippet": "German C2, 1+ years client/after-sales experience, strong empathy and communication, handling billing and reviews, proficiency with CRM, email and video conferencing, reliable remote freelance availability.\nKey Responsibilities\n\u2022 managing clients\n\u2022 maintaining CRM\n\u2022 handling invoices\nSkills & Tools\nCRM, Email, Video conferencing\nJob reputed company\n\u2022 Category: Sales\n\u2022 Seniority: Entry Level\n\u2022 Comm",
+    "score": -2,
+    "tags": [
+      "pay-type-unclear",
+      "remote-confirmed",
+      "low-quality-listing"
+    ],
+    "first_seen": "2026-10-22T15:42:54.415649+00:00"
   },
   {
     "id": "TkRhdmQ4cTl6X044ZVA2NkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURFJ3TkhKcmFrSXhla2hxTVVoUlZuVXdNVFUxVUU0MUxXOUdVazlqU0RKa05HbzBTbUpoWkhRME1HNHRhWEI0ZWpSQ1NUTkxURkpHYmxvdGJ6RlZkM0JEVEdGR1ZDMHlXbkZQY2pSWVZ6bEVjRW8xUm1aRFMzSjNWbTExUTNWNWJHRkpTV3RFTkhORFVFSXplSEJmV1dkTWNXWjVaVmxuY2pWblYwMTBOWFl4YjFaYVFVRVNGMVIwTTFsaGNUWmhSRFUyUW5GMGMxQnFXbll5ZDFGWkdpSkJSSE55T1daVGNVMW5hRWhyVUhKMFduaDFia3BMVjFwak9VaFhlakJ5VVZsQg",
