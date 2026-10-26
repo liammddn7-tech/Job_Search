@@ -273,6 +273,48 @@
     "first_seen": "2026-09-30T16:32:01.835261+00:00"
   },
   {
+    "id": "VW9JNWZMNjVzcUJZTXJKa0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMjFpT1ROWWMwaHhNVVpTTjNaTVMxb3pjRmwxUW1GR1ZHbEhjRWRyU3pSWU9XUkJXV05RVkVOVVZWODVNMVJ6VkVaV1EwVlFkV050VEVWSVpqbHNNV1ZoTW1aeFVXZGxNMFZJVFZGWVNVSlhlVmd4ZEd4bmVFOUlSMWxGVlV4UlJsZFhjRWRoY21KSVgzQk9jM05VZUdkTlRYVmxYMmhpY1dOVmNXTnpZakZrVkdocExXUVNGMjlaWm1aaGNtWjRRV00yWlRRdFJWQjNjVkIxYzBGdkdpSkJSSE55T1daVE9EZHJlV1l6ZG1kUFMyUkhYM2RNYVMxcVRYWXhNVUZ6WVhWbg",
+    "title": "Business Development -Student Recruitment",
+    "company": "The Elite Job",
+    "location": "Anywhere",
+    "is_remote": true,
+    "min_salary": 20,
+    "max_salary": 30,
+    "salary_period": "HOUR",
+    "posted_at": "2026-10-23T00:00:00.000Z",
+    "apply_link": "https://www.theelitejob.com/job/13932/business-development-student-recruitment",
+    "description_snippet": "Job Summary\n\nThe Elite Job is seeking a dynamic and results-driven Business Development - Student Recruitment professional to join our growing team. In this role, you will be responsible for expanding our student recruitment efforts, building strong partnerships with educational institutions, and driving enrollment growth. You will develop and implement strategic initiatives to attract students gl",
+    "score": 6,
+    "tags": [
+      "hourly-pay",
+      "evening-shift-mentioned",
+      "remote-confirmed",
+      "unverified-source"
+    ],
+    "first_seen": "2026-10-26T17:02:28.260853+00:00"
+  },
+  {
+    "id": "QndIck9BWndUM0JtMURRTUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUR2N5TUdSdVFUWlhkVWhFUkdoeGJrdExSV0pwWVVWSlpUTlhNRmhOUVdzek5tSkljakpyUjAxWlQxbEVVeTFtV2psbWVYWXdlbEZ3VTNWQ1duRXdiVkpGY25KaU9WZzRaSEYyVVhkT1MxTlJZWGRwT1hsQ1UwTmtNa0UwYmxCM0xXVmhTazFYWVVNMVZFRkZlRFZ5ZDJsM1puSk5iVlZJYjBkaVRERnpWWEIzYTBoak5Vb1NGM05aWm1aaGRIcE1RWEJMTmpWUFZWQndkV1pJZVVGWkdpSkJSSE55T1daUlF6RXhORlZaVTFwRVQzVjVRMk5FV1hoeGVIUnljalU0TVV0bg",
+    "title": "Part-Time Customer Service Representative \u2013 Remote Support for Education Platform (Evening Shift)",
+    "company": "WFHQuillen",
+    "location": "Anywhere",
+    "is_remote": true,
+    "min_salary": null,
+    "max_salary": null,
+    "salary_period": null,
+    "posted_at": "2026-10-23T00:00:00.000Z",
+    "apply_link": "https://wfhquillen.r5f.talk4fun.net/remote-jobs/part-time-customer-service-representative-remote-support-for-education-platform-evening-shift",
+    "description_snippet": "About worksphere worksphere is a leading provider of innovative online learning solutions that empower families, educators, and students to achieve academic success from the comfort of their homes. Our platform combines cutting\u2011edge technology with a deep understanding of homeschooling dynamics, delivering a seamless, engaging, and personalized educational experience. As a Remote\u2011First organizatio",
+    "score": 6,
+    "tags": [
+      "hourly-pay",
+      "evening-shift-mentioned",
+      "remote-confirmed",
+      "unverified-source"
+    ],
+    "first_seen": "2026-10-26T17:02:44.191517+00:00"
+  },
+  {
     "id": "VW9JNWZMNjVzcUJZTXJKa0FBQUFBQT09OkVzc0JDb3dCUVVwcFZEUjBTbTE1V1V4aVNIaHZjVmczUzJOUGRrWkRlRWhtWkZNdFVtbDFaV2swWWpGc1FUUTVNazl6Y1Raa1ZtZDJRVWxxZWpab2VtWlpiM1ZGZWpWWE5IZHJNWG93T0VKelluVlpYMjVLY21oNVNUTlNURlJWWkZsclRqQlJUWFZvUTNSWlExbEpjeTF1U0dsVWQxb3dhbTFETlRSb1lrbEVlVkpJYlZZNFJqVnpRMHBFVlhaRWVGa1NGbVZZTTJKaGRIVlZURGQxVURRdFJWQnpOelphVTFFYUlrRkVjM0k1WmxGQmJIZHVYMDF2Y1hsR1lrb3djSGx2VGxCQk4wMW1aMWxpTldj",
     "title": "Business Development -Student Recruitment",
     "company": "The Elite Job",
@@ -1006,25 +1048,87 @@
     "first_seen": "2026-09-17T15:21:00.764237+00:00"
   },
   {
-    "id": "YmluZzotMTEzNDIxNDk4Mi5SZXRybw",
-    "title": "Work From Home \u2013 Paid Research",
-    "company": "Research Tribe",
-    "location": "Anywhere, England",
+    "id": "WnU5Rk9MeTNyN2lITVR0MkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVU42ZGpOQ1VrVjZXbUZYYVhsMU4zWkplbGczUW01b1IxZ3RibTFTVUVFeGFGSjNPSGRXTkRWNlZ6UXhSWE5NTm1kclF6WmlVa3hsY21VMGVtUkNOMnAyYkRSaFdUQnhlVEpqV0ZsRmMwTkNVbkpoVFROd1VEZHRWVTVMVVdZNU5GTlpZbVptYmxvdGQxY3paR05EU205WVRXVk5kMkZwZDJoWFdHRjBiVEpLTUhaNVEwOFNGMjFKWm1aaGNFUXdUWEV5ZDNWeU9GQnJiMVJCYTBFMEdpSkJSSE55T1daU1RFcFRha0YxTTFaT2VtTXlSWE5PT0hJdGJIcFdSRGwzUWkxMw",
+    "title": "Remote Customer Care Resolution Coordinator - Part-Time Position at skillspath (Customer Support Specialist)",
+    "company": "WFHQuillen",
+    "location": "Anywhere",
     "is_remote": true,
     "min_salary": null,
     "max_salary": null,
     "salary_period": null,
-    "posted_at": "2026-09-07T16:13:55.000Z",
-    "apply_link": "https://uk.linkedin.com/jobs/view/work-from-home-%E2%80%93-paid-research-at-research-tribe-4464397670?trk=bingjobs",
-    "description_snippet": "Research Tribe is a completely free service that connects people like you with remote opportunities to take part in market research. You could become a mystery shopper, product tester or simply share your opinion through paid surveys, focus groups and more.\n\r\n\n\r\nWe work with many leading market research companies and brands. They want to hear your thoughts and will reward you with a variety of inc",
-    "score": 6,
+    "posted_at": "2026-10-23T00:00:00.000Z",
+    "apply_link": "https://wfhquillen.r5f.talk4fun.net/remote-jobs/remote-customer-care-resolution-coordinator-part-time-position-at-skillspath-customer-support-specialist",
+    "description_snippet": "Join the skillspath Contact Center Team Remote Customer Care Resolution Coordinator (Part-Time) Are you passionate about delivering exceptional customer experiences? Do you thrive in a dynamic, fast-paced environment where your communication skills can make a real difference? If so, skillspath invites you to join our world-class Contact Center team as a Remote Customer Care Resolution Coordinator.",
+    "score": 5,
     "tags": [
-      "pay-type-unclear",
+      "hourly-pay",
       "evening-shift-mentioned",
       "remote-confirmed",
-      "trusted-source"
+      "unverified-source"
     ],
-    "first_seen": "2026-09-09T14:50:51.483303+00:00"
+    "first_seen": "2026-10-26T17:02:18.740518+00:00"
+  },
+  {
+    "id": "SmFSZU9BcndVWk1hM2FIU0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURlZuVjI5amMzZDZTbWhWYTNKa2VUWm9RMk10UXpCeVpubzVWWEoxTlVOeVYxcDViazFuYm0xdVdsZElTM2RuYlhGWFVEVlVWMjlpZG1KTWVFRXpTelJKVFZZd1lVWnVkVUowTW1kM09EWnJTek5hZWpkTVpUSjNZakZaTUdabE5qSnhaWEJoUWxCVFVtTjZXRmxtVm1OWFRYZDVNRVJ5ZVdGT2RXc3laMGhtT0RGWlZFb1NGMjFKWm1aaGNFUXdUWEV5ZDNWeU9GQnJiMVJCYTBFMEdpSkJSSE55T1daVVRuSlNjVEZNWms5UVZqRnNiakl5Y214bU9VMXljRXQyUVZGQg",
+    "title": "[FULL TIME Remote] Part-time Customer Service Representative",
+    "company": "WFHQuillen",
+    "location": "Anywhere",
+    "is_remote": true,
+    "min_salary": null,
+    "max_salary": null,
+    "salary_period": null,
+    "posted_at": "2026-10-24T00:00:00.000Z",
+    "apply_link": "https://wfhquillen.r5f.talk4fun.net/remote-jobs/full-time-remote-part-time-customer-service-representative-1",
+    "description_snippet": "Core Information Compensation a competitive salary Position Part-time Customer Service Representative Start Date Immediate openings available Location Remote Company Workwarp \u00c2 \u00c2 Since 1996, Epoch has been one of the leading Internet Payment Service Providers in the industry, enabling online companies to accept payments without having to obtain their own merchant accounts. Epoch services businesse",
+    "score": 5,
+    "tags": [
+      "hourly-pay",
+      "evening-shift-mentioned",
+      "remote-confirmed",
+      "unverified-source"
+    ],
+    "first_seen": "2026-10-26T17:02:18.740584+00:00"
+  },
+  {
+    "id": "NVdzWHpkX0RxbXpMdnZkU0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTM0p2Wmt4eVQyNUxRVjlsTW5wb1RYaFdXbXQxTkZZMWMxZDRaRk5aVDJ4c2NYVlpTMUpyWjA5cVkwb3RhMlJCTjJoYVRHUnhjRkpqZFRsVFVqQkdkRTVJVlZCTk1rcFhZbUkxU0cxc1lqbENPRFZTWmtoelZVVTBiamxLU20xeE0zZHdhUzFEUm5wRU5XOU9jVU5FV0VsTGEwVTJaVzV2ZEhKdWVFOVphbWd5UnkxWlRFTVNGM0paWm1aaGRsaHBTMDFtVW10UVNWQnRPVzFvTWtFNEdpSkJSSE55T1daU05XbDVORlptYldwV01WWnRVMFJYUlZGU1NYTktORTlpZVZOMw",
+    "title": "Control Account Manager for Quality & Mission Success (Level 5)",
+    "company": "Lockheed Martin",
+    "location": "Anywhere",
+    "is_remote": true,
+    "min_salary": 111700,
+    "max_salary": 222640,
+    "salary_period": "YEAR",
+    "posted_at": "2026-10-24T00:00:00.000Z",
+    "apply_link": "https://jobmesh.io/job/8bfbea87-a282-4ecf-be24-cd352f690cb2",
+    "description_snippet": "Control Account Manager for Quality & Mission Success (Level 5)\n\nAeronautics Company, Texas\n\n695778BR\n\nBasic Qualifications\n\nMust be a US Citizen. This position supports a facility that requires special access.\n\nExperience developing processes and procedures for standard work.\n\nExperience building relationships with internal and external customers.\n\nExperience with aerospace and defense programs.\n",
+    "score": 5,
+    "tags": [
+      "salary-confirmed",
+      "remote-confirmed",
+      "unverified-source"
+    ],
+    "first_seen": "2026-10-26T17:02:39.562040+00:00"
+  },
+  {
+    "id": "UXNPQ1ZWWFg1NWlQU1JlSEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVFYxWDE5dGNETkJTRWxFTFcxc2VsZEZSbTlIYVV0Wk5XaGhSMFpQVEZNdFVGa3lNM1IzVkVVMU5sbFRaMGQxUTFCWWRtTjJOMGhhVkVNMFRHUktVM05sZUVwNk5qRm5aakJFV0VSVGNHaHZVbGw0ZVVOVVEzVk1iWHByWVROdWJYSjNXSEY0T0ZOaFpVMURSRTgxTVVOMVJVRldMVlp5VWw5a05uaEJXSGcxVEVGSU0yY1NGM05aWm1aaGRIcE1RWEJMTmpWUFZWQndkV1pJZVVGWkdpSkJSSE55T1daU2JqZG5lWEppVFRabFZGSXdaRU5sT0dOR04zZzBTbFZqVFUxQg",
+    "title": "Remote Night Shift Work | Evening Customer Support Position",
+    "company": "WFHQuillen",
+    "location": "Anywhere",
+    "is_remote": true,
+    "min_salary": null,
+    "max_salary": null,
+    "salary_period": null,
+    "posted_at": "2026-10-24T00:00:00.000Z",
+    "apply_link": "https://wfhquillen.r5f.talk4fun.net/remote-jobs/remote-night-shift-work-evening-customer-support-position-5",
+    "description_snippet": "Position Overview If you\u2019re exploring remote night time jobs, this position offers a reliable and flexible way to earn from home while assisting customers across global time zones. As a remote evening support agent, you\u2019ll handle chat and email inquiries, resolve common issues, and ensure customers receive professional, round-the-clock assistance. This opportunity is perfect for night owls, studen",
+    "score": 5,
+    "tags": [
+      "hourly-pay",
+      "evening-shift-mentioned",
+      "remote-confirmed",
+      "unverified-source"
+    ],
+    "first_seen": "2026-10-26T17:02:44.191350+00:00"
   },
   {
     "id": "bmk5RUFQNVVyZHVFNlFWTkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVTVDU2tWalNVOTZSWEJJTUhaeWRGSXhka0pUU0hselJVNU9jazlyTTFsWFMxRmZOM2gwT0ZJM1JGSTVXWFJqYkU1T1IwZHRjRTQzYWtoTFFXeHdZbTFuTUVsamVXVnpORVpLVmxaemQzaHJhblpsUms5SFl6RmtUbXhsWTFOMlFraEtVbTloTTA1Uk5tazJlSEZMTjFkWlFWUkJabXgxYkdKNWFHNUxXbmRwWVVoUk1HNFNGMkZ1TTJKaGRGQkNRMWxMVFRRdFJWQTNjRlJKYjBGVkdpSkJSSE55T1daUloxQktTbEZQVFd3NFMzQkVVbWhMTkhwQmVDMU5lRTVIZW1SUg",
@@ -3020,25 +3124,66 @@
     "first_seen": "2026-09-14T16:40:21.953016+00:00"
   },
   {
-    "id": "YmluZzotNzE1MjY3NDIyLlJldHJv",
-    "title": "Weekend/Evening Remote Licensed Talk Therapist - Fee For Service",
-    "company": "Thriveworks",
-    "location": "Anywhere, OR",
+    "id": "c3VYQmt5R0lzY01iYldldkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTak5zWjNCelpFeEZjMVZ4YkhNeVEwRnliVzgxVlRSV2FuTjRYemRZU1ZsMmIwMXBhMHc1ZDFSTlVGcHBaR2t3VURSRlZUaEJTMDVaYzBkNVNXNUNjM2haUWtKRFdXOTRaV1JqYzBOR1ZuRnllR1Y0UlRkNlVuUndjR0ZVYUc4MmNXdGtkRmhYZFhCWE5sUnpZbmRvZEVJelFsZHZTbVZmYVVaMVNUa3lVWFUyVVd0aVpsTVNGMjFKWm1aaGNFUXdUWEV5ZDNWeU9GQnJiMVJCYTBFMEdpSkJSSE55T1daU1ZXbE9kRTFwWDJscVJXUjNjVmwzVmpaa2NUbE5lbUo1TmpaQg",
+    "title": "Amazon Customer Service Representative - Part Time - Work From Home Immediately Hiring",
+    "company": "WFHQuillen",
+    "location": "Anywhere",
     "is_remote": true,
     "min_salary": null,
     "max_salary": null,
     "salary_period": null,
-    "posted_at": "2026-09-08T14:35:00.000Z",
-    "apply_link": "https://www.ziprecruiter.com/c/Thriveworks/Job/Weekend-Evening-Remote-Licensed-Talk-Therapist-Fee-For-Service/-in-Remote,OR?jid=51febf45423affa4&trk=bingjobs",
-    "description_snippet": "Thriveworks is currently seeking Licensed Clinicians to provide telehealth sessions in the evenings and on weekends in Oregon.\n\r\n\n\r\nAbout the job\n\r\nThriveworks is a mental health care company founded by clinicians in 2008 and still led by them today. With 340+ locations and a nationwide hybrid care model, we serve over 175,000 clients annually through more than 1.7 million sessions, and we're grow",
-    "score": 5,
+    "posted_at": "2026-10-24T00:00:00.000Z",
+    "apply_link": "https://wfhquillen.r5f.talk4fun.net/remote-jobs/amazon-customer-service-representative-part-time-work-from-home-immediately-hiring-6",
+    "description_snippet": "Amazon is actively hiring remote Customer Service Representatives in the USA! Join the world's leading online retailer and assist customers from the comfort of your home. Enjoy a competitive salary and the flexibility of working remotely. If you're customer-focused and ready to be part of a dynamic team, apply now! Don't miss the chance to start a rewarding career with a global giant. Secure your ",
+    "score": 4,
     "tags": [
       "pay-type-unclear",
       "evening-shift-mentioned",
       "remote-confirmed",
+      "unverified-source"
+    ],
+    "first_seen": "2026-10-26T17:02:18.739809+00:00"
+  },
+  {
+    "id": "a3didGxGckJTV25yOHM4LUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbVJDTkVsYVJrdG1XRE4yVTNOWFMxUnNOeTE2TW1kbFVYVkNUalpQTWt0QmIyZGxSMmg1UnpVeVVEaFplRTEyVTJ3emFIbEhjVzFmZFVRM1JEaFlhblJKYUdWZlRTMVVlalp3YldGUmNsSTVjVWxrY1hkck5tSkpWa3h6ZGxSb2RGcE1jakJmTTFsS01tVlhRM1JmYlZoS2VEZ3pkMmxNVEZScExVSTBjVXhHYVhGaWJFSVNGMjFKWm1aaGNFUXdUWEV5ZDNWeU9GQnJiMVJCYTBFMEdpSkJSSE55T1daVGMwUkJjR1I0U0U1c1VYUlNNbkowVFdWblowRmthMmxQY2tWbg",
+    "title": "Experienced Remote Part-Time Customer Support Specialist \u2013 Flexible Work-From-Home Opportunities in the Beverage Industry",
+    "company": "WFHQuillen",
+    "location": "Anywhere",
+    "is_remote": true,
+    "min_salary": null,
+    "max_salary": null,
+    "salary_period": null,
+    "posted_at": "2026-10-24T00:00:00.000Z",
+    "apply_link": "https://wfhquillen.r5f.talk4fun.net/remote-jobs/experienced-remote-part-time-customer-support-specialist-flexible-work-from-home-opportunities-in-the-beverage-industry",
+    "description_snippet": "Join a Global Beverage Leader Build Your Career with skillspath from the Comfort of Your Home Are you searching for a part-time role that offers genuine flexibility, meaningful work, and the chance to represent one of the most recognized names in the world? skillspath, a forward-thinking organization committed to delivering exceptional customer experiences across the beverage and consumer products",
+    "score": 4,
+    "tags": [
+      "pay-type-unclear",
+      "evening-shift-mentioned",
+      "remote-confirmed",
+      "unverified-source"
+    ],
+    "first_seen": "2026-10-26T17:02:18.740119+00:00"
+  },
+  {
+    "id": "SVh3aU04Q2p3ZG9Dc1d2T0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMDlpY1RCVE5XWmxWa2RPU0dNNVlWVnVaemRXUW1kdlkzQXhlRlpTZEd0dmVFUm5RMnd0V2tGWFQwOU5ZVkZpZUhkWVMxSkpkM05rZERCWFJEVjVZVlkyUkZGWlExaGlNbVZ1Y0hvMWFFVkhSM2s1WVY5Wk1UaDRkVXRqVGpSdFEyOW1lbWxCYWxWeE4xcE5SMmh1V21OTmVHRmFXbUYyVFVwRGEzcFNiSFJyVEdSbWEya1NGMjlaWm1aaGNtWjRRV00yWlRRdFJWQjNjVkIxYzBGdkdpSkJSSE55T1daU1RFSnlZV1J5UldKSGNqWkZlblJqVVVOWlJsOVhYM0pMWDBwMw",
+    "title": "Licensed Nevada Real Estate Agent \u2013 Property Management Business Development",
+    "company": "Advantage Realty Ltd",
+    "location": "Anywhere",
+    "is_remote": true,
+    "min_salary": null,
+    "max_salary": null,
+    "salary_period": "HOUR",
+    "posted_at": "2026-10-23T00:00:00.000Z",
+    "apply_link": "https://www.indeed.com/viewjob?jk=fbb97beabf767012",
+    "description_snippet": "Advantage Realty Ltd. | Las Vegas, NV\n\nPart-Time | Remote Calling Opportunity | Flexible Schedule\n\nAdvantage Realty Ltd. is seeking a motivated, personable Nevada-licensed real estate agent to help grow our residential property management business in Las Vegas, Henderson, and North Las Vegas.\n\nThis is an excellent opportunity for an experienced agent or licensed property manager looking for flexib",
+    "score": 4,
+    "tags": [
+      "hourly-pay",
+      "remote-confirmed",
       "trusted-source"
     ],
-    "first_seen": "2026-09-10T14:41:09.552643+00:00"
+    "first_seen": "2026-10-26T17:02:28.261166+00:00"
   },
   {
     "id": "a2hJUDVuZHpWd1laVXlQVkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVXhLUVhjMmVqZFdhemt4UVZwcFNrUTRaR1JFWjJSQ1lVUm5lak5HV1cxWVZraGFhV1JtYm5SMk5HWkdWV0ZvTkZKclgzbGllblJrZEdaSGFXTXdiVnBmZVRoNWVuSkllbFJSUWpWbVRUTm1ha3d6YkZSS2NYaEpVR3hPYjFnMk16UktkVUpZY1VoQllYTjFXRU5KZDB4R1dGQTVSekl6VDFGb01sQnNkR1V6TWtwQ2IzQVNGMkZ1TTJKaGRGQkNRMWxMVFRRdFJWQTNjRlJKYjBGVkdpSkJSSE55T1daVGNVaHdZemRMUW1KaE1UaFNNR2d4UzIxSk9XeE5aamwxY3pobg",
@@ -3844,6 +3989,86 @@
       "unverified-source"
     ],
     "first_seen": "2026-09-17T15:21:49.788223+00:00"
+  },
+  {
+    "id": "aThEcE1fUVZOU2I0UTlZZUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVlo1YjJ0TFVsOW9hVFZIUlVKc1owODNkM2xuUkZSYVdWcG1VVmh0Y0RSUVRHMDVYMkYyYUMxeGJXWlhiMU4xU21WV1VHSlJiMEpoUTI1YU4wMW5WelZaWDJOa2VWQmpjMHRMY21obFptWlJiVGxtVldsQk5tNUVXVXBUVEhwaFNuaEJXV1JyZW1sQlZ6QklTbkpXUmxkNlgydGFXa0pEU2tkRVRWaG5SRmMxWjNwTVZpMFNGMjFKWm1aaGNFUXdUWEV5ZDNWeU9GQnJiMVJCYTBFMEdpSkJSSE55T1daUlJtVlhaa05VUWxGUWNDMVpkbEY2UkVwNWJsaENhM0pTU1U5bg",
+    "title": "Customer Experience Associate I \u2013 Part-Time",
+    "company": "Wisetack",
+    "location": "Anywhere",
+    "is_remote": true,
+    "min_salary": null,
+    "max_salary": null,
+    "salary_period": "HOUR",
+    "posted_at": "2026-10-23T00:00:00.000Z",
+    "apply_link": "https://www.remoterocketship.com/us/company/wisetack/jobs/customer-experience-associate-i-part-time-united-states-remote/",
+    "description_snippet": "Job Description:\n\u2022 Support borrowers by phone and across other channels with applications, approvals, payments, repayment, refunds, and account questions.\n\u2022 Set clear expectations for next steps, follow-up, and escalations.\n\u2022 Follow lending requirements, company policies, and established processes while identifying risks, complaints, or issues needing review.\n\u2022 Partner cross-functionally to resolv",
+    "score": 3,
+    "tags": [
+      "hourly-pay",
+      "remote-confirmed",
+      "unverified-source"
+    ],
+    "first_seen": "2026-10-26T17:02:18.739575+00:00"
+  },
+  {
+    "id": "ZzVBYnZSLXFyMTkycVBqNUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbmx0VFZWeWNYTjBlRWxpUkVabWFEVXpaV0o2VmtST1EzaEtWbEkyUVVzNVRHTkNUVzlwYmpkTk5XVlNjVWxwY1MxcGRXNXdkVlV4WkhOVllrZHNPVUpTUmxWVWIzazNZamR4VWpGVVJrcGlTak5oVVdGcFVEUmpTRTkxVW5kelJuWlVUSE5SZEMxZk9UaFBValZOUTBOd1JqVlVXalZGVkVORmFVbENjVVp6ZFhod2N6Z1NGMjlaWm1aaGNtWjRRV00yWlRRdFJWQjNjVkIxYzBGdkdpSkJSSE55T1daU1FVMVVTRnB2VkMxT2IxOW1NWGg1TldaSVkyOVhNa3AyWTFOQg",
+    "title": "Business/Sales Development Representative (part-time with full time potential)",
+    "company": "SkillSync",
+    "location": "Anywhere",
+    "is_remote": true,
+    "min_salary": null,
+    "max_salary": null,
+    "salary_period": null,
+    "posted_at": "2026-10-23T00:00:00.000Z",
+    "apply_link": "https://skillsync.c9a.fast-page.org/remote-jobs/business-sales-development-representative-part-time-with-full-time-potential-4",
+    "description_snippet": "Business/Sales Development Representative (part-time with full time potential) Compensation $20 per hour + commission Type Part-time, with potential for full-time growth Digital Music News is looking for a driven, self-motivated Business/Sales Development Representative to join our team. We\u2019ve had significant transformation over the past 10 years and are now focused on expanding the team. If you\u2019r",
+    "score": 3,
+    "tags": [
+      "hourly-pay",
+      "remote-confirmed",
+      "unverified-source"
+    ],
+    "first_seen": "2026-10-26T17:02:28.260012+00:00"
+  },
+  {
+    "id": "RXZGdU41Vll2cjJOd0p2cUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVEZLWWs5MGNIRmZPVTFpU0Mxd2VFeHJWMGxIY0ZjNU4ycGpOM0l3WTBaSVJHcFJSSEE1WkdNdFVtd3lOVVpLWTB0UmFHcDJSMFUzUkhWblkzVk5WR3BRUzA1RU1uZGZPR1ZMT0RkeU1XNTNaMjF5ZERCV1ExcEhkRXg0VUZjNWJXdG5jRmh5WjNGQk5FRkNiVTlHV0RKMmFVbGxkRWhEVW5wS2JXeDJRWG8yYVVka2FFRVNGMjlaWm1aaGNtWjRRV00yWlRRdFJWQjNjVkIxYzBGdkdpSkJSSE55T1daVVJEQmFiMDkyZHkxdmMydGpabXd4UlU0ME1VSkVWSGRYWm1abg",
+    "title": "Experienced Full Stack Business Analyst \u2013 Data-Driven Decision Making for workpinnacle",
+    "company": "WFHQuillen",
+    "location": "Anywhere",
+    "is_remote": true,
+    "min_salary": null,
+    "max_salary": null,
+    "salary_period": null,
+    "posted_at": "2026-10-23T00:00:00.000Z",
+    "apply_link": "https://wfhquillen.r5f.talk4fun.net/remote-jobs/experienced-full-stack-business-analyst-data-driven-decision-making-for-workpinnacle",
+    "description_snippet": "Job Summary Join workpinnacle, a leading beverage company, as a part-time Business Analyst in our remote team. As a key member of our Business Development and Support team, you will play a crucial role in driving business growth and improvement through data-driven decision making. This exciting opportunity offers a competitive hourly rate of $26 and the flexibility of a part-time schedule. About w",
+    "score": 3,
+    "tags": [
+      "hourly-pay",
+      "remote-confirmed",
+      "unverified-source"
+    ],
+    "first_seen": "2026-10-26T17:02:28.260778+00:00"
+  },
+  {
+    "id": "b0NJMmVUQVF4bVB0eGpyc0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbXRMYUdwTlFVYzRWbE01WjI1a1VqbFhVR3B0U0VOS1QxQktYekZTWms4NFdYUllOalZITURoME1FNXZiMU5RY0RRelNHVktVWEF6VmxwUU5EUjVYME5mWHpCMFJ6aFZjRjl1VXpVek5FcHFValE1WVVoak4zUTVUa010Y0c0dFMxSkRORmR2YzBsWU5YZFBiblZGTXpCMFkxOVVibGgyTWxscFZrdE5TMkpDUlVWYWVVb1NGM0JaWm1aaGRsOVFTRGRpYzIxTVVWQm9jV0k1YVVGUkdpSkJSSE55T1daVFJ6VnVWalE0VVhOQ1YzRklZM0ZMU1hvMlgyYzNNV2QzTm1WMw",
+    "title": "Experienced Remote Customer Success Manager - Part Time - E-commerce and Digital Product Specialist - Career Growth Opportunities",
+    "company": "WFHQuillen",
+    "location": "Anywhere",
+    "is_remote": true,
+    "min_salary": null,
+    "max_salary": null,
+    "salary_period": null,
+    "posted_at": "2026-10-23T00:00:00.000Z",
+    "apply_link": "https://wfhquillen.r5f.talk4fun.net/remote-jobs/experienced-remote-customer-success-manager-part-time-e-commerce-and-digital-product-specialist-career-growth-opportunities",
+    "description_snippet": "Introduction to Amazon and the Role Amazon, the world's leading e-commerce platform, is seeking an experienced and highly skilled Remote Customer Success Manager to join its team. As a Customer Success Manager, you will have the opportunity to work with Amazon's top seller partners, influencing processes and strategies across their businesses on Amazon.com and improving end-customer experience. Th",
+    "score": 3,
+    "tags": [
+      "hourly-pay",
+      "remote-confirmed",
+      "unverified-source"
+    ],
+    "first_seen": "2026-10-26T17:02:31.492954+00:00"
   },
   {
     "id": "X0F1NldVU3Z2aHFIdnBLeEFBQUFBQT09OkVzc0JDb3dCUVVwcFZEUjBTbHBRTm5FNFoyRkRiRTVFTWs5R2EwVTFOVzQxYWxaMlVpMUdSRGQ2TnpOTFFrUXdlRVZFUjNBNVMxQnFZVk40YTJsNWFVVklRbm93VkMxWVkxOTRNVVU1V0VwR2NtUXhkSGRuUzNsSVRUTkdORzFOVmxWZlFUZzJaMFV0YVVSclVVMXRkMHBzVld0RmFGbFpSbUU1Y0c1clNXTnlOMUZpYURSMkxXNTRjVkZEY1MxdFJGTVNGbVZZTTJKaGRIVlZURGQxVURRdFJWQnpOelphVTFFYUlrRkVjM0k1WmxKeFVGWlNjRVJQTTBJMVNqUllOV1p4WXpBNWEwaHZPV1pSUm5j",
@@ -5866,264 +6091,284 @@
     "first_seen": "2026-09-14T16:40:31.892120+00:00"
   },
   {
-    "id": "YmluZzotMTQxODY3NDY0MC5SZXRybw",
-    "title": "Executive Assistant (100% Remote, Part-Time Or Full-Time))",
-    "company": "Boldly Premium Executive Assistants",
-    "location": "Anywhere, VA",
+    "id": "aGhVb0huZUplUEtfeHQtZUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbE5aZFZCM016bDZhVjluTURKQ2RYVTRSbXQwVDBVeWVHMVRXV0pRUVcwM0xYSk9Oazl6VHkxNUxXMWxkRFoyVmtsRlduTjVRVFF3TVhWb1NsOXJkMkpIWVRaVllVcGFUbVV3T1c1bVJrRkRNMnRZZFhWMGIwVnJNalp6YUhWb09GSkRibEZvUmtsbU9UbExkV042VFRsNFZWaGtSMEZzZDBRMllVcEdVbE5uU2pKUExVa1NGMjFKWm1aaGNFUXdUWEV5ZDNWeU9GQnJiMVJCYTBFMEdpSkJSSE55T1daVVExWk9RV1F5UlhGa1oxaGhURVppV0ZOTlQyTTRMVEpyVjFSUg",
+    "title": "Customer Service Representative Agent Work From Home - Part Time Focus Group Panelists - Now Hiring",
+    "company": "ApexFocusGroup",
+    "location": "Anywhere",
     "is_remote": true,
     "min_salary": null,
     "max_salary": null,
-    "salary_period": null,
-    "posted_at": "2026-09-09T08:22:09.000Z",
-    "apply_link": "https://www.linkedin.com/jobs/view/executive-assistant-100%25-remote-part-time-or-full-time-at-boldly-premium-executive-assistants-4465059762?trk=bingjobs",
-    "description_snippet": "We are currently hiring for multiple part-time and full-time roles across several industries, including nonprofit, finance, venture capital, tech, and casual fine dining.\n\r\n\n\r\n\n\r\nAre you a dynamic, caring and ridiculously talented executive assistant who is looking to work remotely while still making a difference for the executive(s) you support? If so, Boldly is looking for you! Boldly is 100% re",
-    "score": 3,
+    "salary_period": "HOUR",
+    "posted_at": "2026-10-24T00:00:00.000Z",
+    "apply_link": "https://www.snagajob.com/jobs/1093852843",
+    "description_snippet": "Now accepting applicants for Focus Group studies. Earn up to $750 per week part-time working from home. Must register to see if you qualify. No Customer Service Representative Agent experience needed.\n\nCustomer Service Representative Agent Work From Home - Part Time Remote Focus Group Panelists\n\nOur company is seeking individuals to participate in National & Local Paid Focus Groups, Clinical Trial",
+    "score": 2,
     "tags": [
       "hourly-pay",
       "remote-confirmed",
-      "trusted-source"
+      "unverified-source"
     ],
-    "first_seen": "2026-09-10T14:40:45.705187+00:00"
+    "first_seen": "2026-10-26T17:02:18.739751+00:00"
   },
   {
-    "id": "YmluZzo0NDc4NzE2MjAuUmV0cm8",
-    "title": "Executive Assistant (100% Remote, Part-Time Or Full-Time)",
-    "company": "Boldly Premium Executive Assistants",
-    "location": "Anywhere, PA",
+    "id": "QlBacmxmdm0tVEYwRmJvakFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUSEpIY2xaSU1qSkxRemxNZVhkNFlWazBVazloWDBaWWJUbElUWGxwYTFaWE1IZENiakZPUjNoR1RURkhZbVEzZUdSbFpqbHlaMVJRVVVSZmRVTktXa1pGUm14R1RqQTBTbVpoZVZKRmIwcDJOMWhrYldSeGVra3RjMGxMZWtGd2RtcDRRM1ZLUkRWU1FUVnBkbEF4YnpoRk1EUm1lV1pYVVZoYVJsRlBUVEJKYlhRMFUxY1NGMjFKWm1aaGNFUXdUWEV5ZDNWeU9GQnJiMVJCYTBFMEdpSkJSSE55T1daVU5sUkZiRTF1YW01cWFrVTFSMFZVVjFZNFdYSndRM0ZFU0dKbg",
+    "title": "Virtual Chat Support Specialist \u2013 Entry Level (Part-Time) \u2013 Kickstart Your Career in Customer Support",
+    "company": "WFHQuillen",
+    "location": "Anywhere",
     "is_remote": true,
     "min_salary": null,
     "max_salary": null,
     "salary_period": null,
-    "posted_at": "2026-09-09T11:04:27.000Z",
-    "apply_link": "https://www.linkedin.com/jobs/view/executive-assistant-100%25-remote-part-time-or-full-time-at-boldly-premium-executive-assistants-4465302653?trk=bingjobs",
-    "description_snippet": "We are currently hiring for multiple part-time and full-time roles across several industries, including nonprofit, finance, venture capital, tech, and casual fine dining.\n\r\n\n\r\n\n\r\nAre you a dynamic, caring and ridiculously talented executive assistant who is looking to work remotely while still making a difference for the executive(s) you support? If so, Boldly is looking for you! Boldly is 100% re",
-    "score": 3,
+    "posted_at": "2026-10-24T00:00:00.000Z",
+    "apply_link": "https://wfhquillen.r5f.talk4fun.net/remote-jobs/virtual-chat-support-specialist-entry-level-part-time-kickstart-your-career-in-customer-support",
+    "description_snippet": "Are you a people person with a passion for delivering exceptional customer experiences? Do you thrive in a fast-paced, dynamic environment where no two days are the same? If so, we're excited to introduce you to our Virtual Chat Support Specialist \u2013 Entry Level (Part-Time) role, where you'll have the opportunity to kickstart your career in the world of online chat support. At our company, we're co",
+    "score": 2,
     "tags": [
       "hourly-pay",
       "remote-confirmed",
-      "trusted-source"
+      "unverified-source"
     ],
-    "first_seen": "2026-09-10T14:40:45.705363+00:00"
+    "first_seen": "2026-10-26T17:02:18.740296+00:00"
   },
   {
-    "id": "YmluZzotMTQ2NTUwODA5Ni5SZXRybw",
-    "title": "Customer Service Representative - Part Time \u2013 Remote In USA",
-    "company": "TTEC",
-    "location": "Anywhere, TX",
+    "id": "bGoxMWJGVVZDbHNSOGs4OEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTazVrVm5GMGJWSkhObkkzUkcxVmJ6RlBXWHA2YTIxTmRqRk9lSFY2TUVwSFEyZDJkMkp3TVZWaVVuTkxZMVF5VFhSaGFVMXNRa2RJZFdwV1h6YzRRa3BsUWt0SmFsa3dNRXAwV0ZSblJsRnRNalJPUTBkSVVXdDBPR0Z5UjBsT1lWbG1SRmhCZFRGb05VRlZYMGhsUkZObVptNVNka3RyZEdrMVdubDJiR3RQVFhocFYwRVNGMjFKWm1aaGNFUXdUWEV5ZDNWeU9GQnJiMVJCYTBFMEdpSkJSSE55T1daU2JreGxkazFUZHpCZlRVMXBXbFJwWDI1bGRFOHpXVUZITUcxbg",
+    "title": "Part-Time worksphere Customer Service Representative \u2013 Remote Work Opportunities",
+    "company": "WFHQuillen",
+    "location": "Anywhere",
     "is_remote": true,
     "min_salary": null,
     "max_salary": null,
     "salary_period": null,
-    "posted_at": "2026-09-08T02:05:22.000Z",
-    "apply_link": "https://www.linkedin.com/jobs/view/customer-service-representative-part-time-%E2%80%93-remote-in-usa-at-ttec-4455596128?trk=bingjobs",
-    "description_snippet": "Your potential has a place here with TTEC\u2019s award-winning employment experience. As a\r\nCustomer Service Representative Part time working remotely, you\u2019ll be a part of bringing humanity to business. #experienceTTEC\n\r\n\n\r\nOur employees have spoken. Our purpose, team, and company culture are amazing and our Great Place to Work\u00ae certification in the United States says it all!\n\r\n\n\r\nOur TTEC Remote CX te",
-    "score": 3,
+    "posted_at": "2026-10-23T00:00:00.000Z",
+    "apply_link": "https://wfhquillen.r5f.talk4fun.net/remote-jobs/part-time-worksphere-customer-service-representative-remote-work-opportunities",
+    "description_snippet": "Are you a customer-focused individual looking for a flexible, part-time job that allows you to work from the comfort of your home? worksphere is seeking motivated and enthusiastic individuals to join our customer service team. As a part-time worksphere Customer Service Representative, you will be responsible for providing exceptional service to our customers, addressing their inquiries, and resolv",
+    "score": 2,
     "tags": [
       "hourly-pay",
       "remote-confirmed",
-      "trusted-source"
+      "unverified-source"
     ],
-    "first_seen": "2026-09-10T14:41:09.552334+00:00"
+    "first_seen": "2026-10-26T17:02:18.740773+00:00"
   },
   {
-    "id": "YmluZzotMTMwNTM5MTcyMy5SZXRybw",
-    "title": "Fully Remote  Customer Service\u2013 Hotel Reservations",
-    "company": "Careers In Travel  Destination Pros",
-    "location": "Anywhere, MD",
+    "id": "aU81NUZTS3M2MHROMGpHM0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVGQ1VFhoelFVaFJNbnBuUWxWMlkwbFRRMEp5WTB0ekxXUjFURzR5WDBoaVVqQmZSMDB5Tm13dGJISk9iMDR3VUUxNU9UbGpaVTR6VUdNMlgzbDVjMWQ0VjJNeVJXOVdOMmRVVUZSSFltZHVYMWQ1TXpaWmJIRm1iMDU1T1VKc2RISlpaMDlNVW1KNWNUaHZiMmh4U3pjNUxURjBXSFppTmw5a0xVbHljWEpJVkRVeFRIb1NGMjlaWm1aaGNtWjRRV00yWlRRdFJWQjNjVkIxYzBGdkdpSkJSSE55T1daVVdqaGtWbmg2U2xCd2FsWlBVM0JwWlRSU2JucEdWMnRuYzA1Qg",
+    "title": "E-Commerce Business Development Professionals - Remote, Flexible",
+    "company": "Step Towards Freedom Consulting",
+    "location": "Anywhere",
     "is_remote": true,
     "min_salary": null,
     "max_salary": null,
     "salary_period": null,
-    "posted_at": "2026-09-09T07:35:03.000Z",
-    "apply_link": "https://www.linkedin.com/jobs/view/fully-remote-customer-service%E2%80%93-hotel-reservations-at-careers-in-travel-destination-pros-4463042749?trk=bingjobs",
-    "description_snippet": "Role Description\n\r\n\n\r\nThis is a remote role for Customer Service\u2013 Hotel Reservations. The primary responsibilities include managing customer interactions, assisting clients with hotel reservation inquiries, ensuring a seamless booking process, and delivering exceptional customer support.\n\r\n\n\r\nQualifications\n\r\n\n\r\n\r\n\r\n- Strong skills in Customer Service, Customer Support, and ensuring Customer Satis",
-    "score": 3,
+    "posted_at": "2026-10-24T00:00:00.000Z",
+    "apply_link": "https://jobmesh.io/job/92e5e4bc-dc91-4198-8045-4282962cb29b",
+    "description_snippet": "E-Commerce Business Development Professionals - Remote, Flexible\n\nE-Commerce Business Development Professionals - Remote, Flexible\n\nHave you had enough of the constraints and stress of traditional roles and crave more life-work balance, flexibility and remote earning?\n\nBring your skills and experience and Transition Into the Digital Learning & Remote Business Education space and leverage your ambi",
+    "score": 2,
     "tags": [
       "pay-type-unclear",
       "remote-confirmed",
-      "trusted-source"
+      "unverified-source"
     ],
-    "first_seen": "2026-09-10T14:41:09.552567+00:00"
+    "first_seen": "2026-10-26T17:02:28.259841+00:00"
   },
   {
-    "id": "YmluZzotODg2NzgyOTcyLlJldHJv",
-    "title": "Executive Assistant (100% Remote, Part-Time Or Full-Time))",
-    "company": "Boldly Premium Executive Assistants",
-    "location": "Anywhere, VA",
+    "id": "MGJNajNPRDAtcklENDgxRUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUREI0TlVJMGFIQXlWM05yVTB4WGEyOTVaSGhtWlROWVpWSndORTlWT0VrNFEyVkNWRVZzY1ZWeFF6aHdWSEZmVlhGbVNqaEROelZwYTBwaFl6bG1VWE5HZWpSNVZuWTNhRWhDU0c1UE5ETXhaVEl0V1c1dlQwRm9XVU5NY0MxRWJrazBTRTVYTldKdlJ6QndWRlpMWkVSNFVEbFFXWGwxTjE4NGExWjFVM1IxVWxjNVJURVNGMjlaWm1aaGNtWjRRV00yWlRRdFJWQjNjVkIxYzBGdkdpSkJSSE55T1daVE5XRm5jVUZJWkVwV2VEWklWRGh4WmpKMU1taG1hMVF5UkVsbg",
+    "title": "Product Tester - Full-Time/Part-Time, $25/hr-45/hr (Typist) - Remote | WFH",
+    "company": "WFHQuillen",
+    "location": "Anywhere",
     "is_remote": true,
     "min_salary": null,
     "max_salary": null,
     "salary_period": null,
-    "posted_at": "2026-09-08T12:09:59.000Z",
-    "apply_link": "https://www.linkedin.com/jobs/view/executive-assistant-100%25-remote-part-time-or-full-time-at-boldly-premium-executive-assistants-4464675073?trk=bingjobs",
-    "description_snippet": "We are currently hiring for multiple part-time and full-time roles across several industries, including nonprofit, finance, venture capital, tech, and casual fine dining.\n\r\n\n\r\n\n\r\nAre you a dynamic, caring and ridiculously talented executive assistant who is looking to work remotely while still making a difference for the executive(s) you support? If so, Boldly is looking for you! Boldly is 100% re",
-    "score": 3,
+    "posted_at": "2026-10-24T00:00:00.000Z",
+    "apply_link": "https://wfhquillen.r5f.talk4fun.net/remote-jobs/product-tester-full-time-part-time-25-hr-45-hr-typist-remote-wfh",
+    "description_snippet": "Are you interested in a fun and flexible way to earn extra income from the comfort of your home? We are seeking enthusiastic individuals to join our team as Home-Based Product Testers. No prior experience is needed, and all products and shipping costs are covered, making it a completely free, safe, and private opportunity. About The Role... As a Home-Based Product Tester, you'll be a key player in",
+    "score": 2,
     "tags": [
       "hourly-pay",
       "remote-confirmed",
-      "trusted-source"
+      "unverified-source"
     ],
-    "first_seen": "2026-09-09T14:50:44.874925+00:00"
+    "first_seen": "2026-10-26T17:02:28.259943+00:00"
   },
   {
-    "id": "YmluZzotMTIyOTQ1ODU3MS5SZXRybw",
-    "title": "Executive Assistant (100% Remote, Part-Time Or Full-Time)",
-    "company": "Boldly Premium Executive Assistants",
-    "location": "Anywhere, PA",
+    "id": "bWtENVI5RnA2eWh2UFRuYkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVWhGVjJWaWNuSjVlV1ZsYjJOTVJUWXpiR1ZtVFZrMGNXaFRlbVJEUmpkUFRtRXRSelI0YlVWaU9VcGhZM1YxYzNsbFdEZHhSREJCVkdWa2VFaHFRM0Y1YTJsbFlYRlJhRlJ5UjBwSFVsTkhkbkUxT1RacFRFdG5TbXRRVEc5cmQyaFpWbVJMZVdoWU4wNUZVa0owWDBOWVZrZHJWMGN6TTJGWFJuVlFUVU52ZVRWaVMwb1NGMjlaWm1aaGNtWjRRV00yWlRRdFJWQjNjVkIxYzBGdkdpSkJSSE55T1daU01HMVNSbDlUY1ZaQ1ZVRkVjMHBRUlhOSlJGaHBPRTlRUjJ0Qg",
+    "title": "Call Center Agent-Fundraiser-Work From Home (Remote)",
+    "company": "WFHQuillen",
+    "location": "Anywhere",
     "is_remote": true,
     "min_salary": null,
     "max_salary": null,
     "salary_period": null,
-    "posted_at": "2026-09-08T12:04:16.000Z",
-    "apply_link": "https://www.linkedin.com/jobs/view/executive-assistant-100%25-remote-part-time-or-full-time-at-boldly-premium-executive-assistants-4464672033?trk=bingjobs",
-    "description_snippet": "We are currently hiring for multiple part-time and full-time roles across several industries, including nonprofit, finance, venture capital, tech, and casual fine dining.\n\r\n\n\r\n\n\r\nAre you a dynamic, caring and ridiculously talented executive assistant who is looking to work remotely while still making a difference for the executive(s) you support? If so, Boldly is looking for you! Boldly is 100% re",
-    "score": 3,
+    "posted_at": "2026-10-23T00:00:00.000Z",
+    "apply_link": "https://wfhquillen.r5f.talk4fun.net/remote-jobs/call-center-agent-fundraiser-work-from-home-remote-31",
+    "description_snippet": "\ud83d\udcdd Job Overview Are you an experienced professional looking for a part-time leadership role that combines strategic sales development with operational management\u2014all while working remotely? We are seeking a highly motivated Sales and Operations Manager (Part-Time, Remote) to join our growing team. This is a unique opportunity to make a significant impact by overseeing both sales strategies and day-",
+    "score": 2,
     "tags": [
       "hourly-pay",
       "remote-confirmed",
-      "trusted-source"
+      "unverified-source"
     ],
-    "first_seen": "2026-09-09T14:50:44.875315+00:00"
+    "first_seen": "2026-10-26T17:02:28.260206+00:00"
   },
   {
-    "id": "YmluZzoyNDQzMTExLlJldHJv",
-    "title": "GTM Specialist - Fully Remote  Upto $160/Hr",
-    "company": "Mercor",
-    "location": "Anywhere, England",
+    "id": "TG5kVWZfX3h3WTFjZnJNYUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURmRUWW5FelZEUkpSbWR6VG05MFIyWXhVa2cxVVZWalVEVm1WMHBVV0ZOcVpuUmpTRTlKT1RCYWVqSkpUVVkxV0VOdGFsTjBhMDg0WmxsVVRGbHVXVGhVY0hwVk9HNVBSMGR0UWtwdFZ6Qm9SMk5zTXpoTFZXRk1hbkpKTFc1MVJVbFVOa1JtUVdKVWIycHFiMm95TFdKbE1GbEpTazFYYTFwVlNsQlFTaTFHTVRJNVIwNFNGMjlaWm1aaGNtWjRRV00yWlRRdFJWQjNjVkIxYzBGdkdpSkJSSE55T1daVGFqZHllVzVKVWxjMFRFWlhjekJwVjJKMWVuSmlkVUkzTldSbg",
+    "title": "Business Development Executive",
+    "company": "J.B. Hunt Transport",
+    "location": "Anywhere",
     "is_remote": true,
     "min_salary": null,
     "max_salary": null,
     "salary_period": null,
-    "posted_at": "2026-09-06T19:18:42.000Z",
-    "apply_link": "https://uk.linkedin.com/jobs/view/gtm-specialist-fully-remote-upto-%24160-hr-at-mercor-4462916383?trk=bingjobs",
-    "description_snippet": "About The Job\n\r\n\n\r\nMercor connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors include\r\nBenchmark, General Catalyst, Peter Thiel,\r\nAdam D'Angelo, Larry Summers, and Jack Dorsey.\n\r\n\n\r\nPosition: Public Sector / Legal / GTM Experts\n\r\n\n\r\nType: Contract\n\r\n\n\r\nCompensation: $80\u2013$160/hour\n\r\n\n\r\nLocation: Remote\n\r\n\n\r\nRole Responsibilities\n",
-    "score": 3,
+    "posted_at": "2026-10-23T00:00:00.000Z",
+    "apply_link": "https://www.snagajob.com/jobs/1269966698",
+    "description_snippet": "Remote - Work from Home\n\nWest Orange, NJ - Executive Dr\n\nFull time\n\n00630760\n\u2022 *Job Title:**\n\nBusiness Development Executive\n\u2022 *Department:**\n\nSales, Marketing & Product Management\n\u2022 *Country:**\n\nUnited States of America\n\u2022 *State/Province:**\n\nNew Jersey\n\u2022 *City:**\n\nNewark\n\u2022 *Full/Part Time:**\n\nFull time\n\u2022 *Job Summary:**\n\nUnder general supervision, this position is responsible for contacting prosp",
+    "score": 2,
     "tags": [
-      "hourly-pay",
+      "pay-type-unclear",
       "remote-confirmed",
-      "trusted-source"
+      "unverified-source"
     ],
-    "first_seen": "2026-09-09T14:50:51.482927+00:00"
+    "first_seen": "2026-10-26T17:02:28.260518+00:00"
   },
   {
-    "id": "YmluZzotNzMyMzY0NjA2LlJldHJv",
-    "title": "Creative Marketing Expert - Fully Remote  Upto $160/Hr",
-    "company": "Mercor",
-    "location": "Anywhere, England",
+    "id": "MnpWcno5RTBrdGJKbU5DZEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMmhRZUhCU2FVSXdkMnBFT1hCYU1HbGZjVmt3YUhGQ1lVZDRiM1pSU1RsdVRESnpURWhxWkdwdWEzbFNWbmRCTjJ4TloybFVWWFF0WkhWd2RYbGthRWgxTjFSb2IwZE1NWGxhTWpsUWJIbHhXVmxFWmpOTmRDMVlTV295YUcwdE5rbDNPRVJWZVdadWVXOWpWR2xGYXpoQmMyZE1UMWRoWjNoNGQyVndRM3B5UzBsbk1Ua1NGMjlaWm1aaGNtWjRRV00yWlRRdFJWQjNjVkIxYzBGdkdpSkJSSE55T1daU1JVaHJablF4UmxWRFYwOVFUMnB6Ulc0MVIzQXhXREJEVm5Kbg",
+    "title": "Director of Strategic Partnerships, New Business",
+    "company": "Jerry.ai",
+    "location": "Anywhere",
     "is_remote": true,
     "min_salary": null,
     "max_salary": null,
     "salary_period": null,
-    "posted_at": "2026-09-06T19:18:46.000Z",
-    "apply_link": "https://uk.linkedin.com/jobs/view/creative-marketing-expert-fully-remote-upto-%24160-hr-at-mercor-4462913359?trk=bingjobs",
-    "description_snippet": "About The Job\n\r\n\n\r\nMercor connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors include\r\nBenchmark, General Catalyst, Peter Thiel,\r\nAdam D'Angelo, Larry Summers, and Jack Dorsey.\n\r\n\n\r\nPosition: Brand / Creative Marketing Professionals\n\r\n\n\r\nType: Contract\n\r\n\n\r\nCompensation: $80\u2013$160/hour\n\r\n\n\r\nLocation: Remote\n\r\n\n\r\nRole Responsibili",
-    "score": 3,
+    "posted_at": "2026-10-23T00:00:00.000Z",
+    "apply_link": "https://dailyremote.com/remote-job/director-of-strategic-partnerships-new-business-5817997",
+    "description_snippet": "You could work anywhere. Why us?\n\u2022 Join a pre-IPO startup with capital, traction and runway ($240M funded | 60X revenue growth in 5 years | $2T market size).\n\n\u2022 Work closely with brilliant leaders and team mates from companies like McKinsey, BCG, Bain, Nvidia, GEICO, Better, etc.\n\n\u2022 Disrupt a massive market and take us to a $10B business in the next few years.\n\n\u2022 Be immersed in a talent-dense envi",
+    "score": 2,
     "tags": [
-      "hourly-pay",
+      "pay-type-unclear",
       "remote-confirmed",
-      "trusted-source"
+      "unverified-source"
     ],
-    "first_seen": "2026-09-09T14:50:51.482992+00:00"
+    "first_seen": "2026-10-26T17:02:28.261081+00:00"
   },
   {
-    "id": "YmluZzotMjM4NDYwMjQyLlJldHJv",
-    "title": "Program Manager - Fully Remote  Upto $160/Hr",
-    "company": "Mercor",
-    "location": "Anywhere, England",
+    "id": "RjhxMDdKTFByMmVLZ1E1YUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTM3BXVlMxb2VWazFkbHBVUjJZMlFqSjRRVzVRVDBoQmJHODFURFpKTUdaeGFrWndZVFJqT1RWT09XTlhkVWgwV2xKd1ZXUnVNSGhrUjA5ZlNFdFhRVEJpVEZCaVVVcE1TVVpmZUVOVWVqWndPRzlITjFaTlpsRnFUa1o2TUZKdFRHbHdRa0prWDFKemRYY3RORW90TVMxTGFFbEJaRVpXUVZBeFdDMHhiVXgzTTJjM2JHUVNGM0JaWm1aaGRsOVFTRGRpYzIxTVVWQm9jV0k1YVVGUkdpSkJSSE55T1daVU1UZGZhalYzVkdGV2FqQTRSRWRtY1MxbVUzb3pXRzkyVm1oQg",
+    "title": "Founding Customer Success Specialist \u2013 Remote, Full-Time Opportunity with workpinnacle (Online Course Platform)",
+    "company": "SkillSync",
+    "location": "Anywhere",
     "is_remote": true,
     "min_salary": null,
     "max_salary": null,
     "salary_period": null,
-    "posted_at": "2026-09-06T19:18:48.000Z",
-    "apply_link": "https://uk.linkedin.com/jobs/view/program-manager-fully-remote-upto-%24160-hr-at-mercor-4462920392?trk=bingjobs",
-    "description_snippet": "About The Job\n\r\n\n\r\nMercor connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors include\r\nBenchmark, General Catalyst, Peter Thiel,\r\nAdam D'Angelo, Larry Summers, and Jack Dorsey.\n\r\n\n\r\nPosition: Operations / Program Management Experts\n\r\n\n\r\nType: Contract\n\r\n\n\r\nCompensation: $80\u2013$160/hour\n\r\n\n\r\nLocation: Remote\n\r\n\n\r\nRole Responsibilit",
-    "score": 3,
+    "posted_at": "2026-10-24T00:00:00.000Z",
+    "apply_link": "https://skillsync.c9a.fast-page.org/remote-jobs/founding-customer-success-specialist-remote-full-time-opportunity-with-workpinnacle-online-course-platform",
+    "description_snippet": "About workpinnacle workpinnacle is an ambitious, fast-growing technology company on a mission to democratize knowledge sharing through intuitive digital learning experiences. Our flagship product is a modern, cloud-based online course platform that empowers creators, educators, coaches, and entrepreneurs to launch, market, and scale their own branded e-learning businesses without needing to write ",
+    "score": 2,
     "tags": [
-      "hourly-pay",
+      "pay-type-unclear",
       "remote-confirmed",
-      "trusted-source"
+      "unverified-source"
     ],
-    "first_seen": "2026-09-09T14:50:51.483052+00:00"
+    "first_seen": "2026-10-26T17:02:31.493429+00:00"
   },
   {
-    "id": "YmluZzoxODE4NjE5MDQxLlJldHJv",
-    "title": "Social Media Specialist - Fully Remote  Upto $100/Hr",
-    "company": "Mercor",
-    "location": "Anywhere, England",
+    "id": "S0lwM0psQ0pLWlRHQUd3WUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTekEzZUZSWWVtUTVOalZwVXpGWkxWWkhRWEJ6V2pkWmJrNWZhRU5uTjNsYVQxcGhabU5LU2t0SVUyUTVZVmt4UWtoamNXbFFUMkpWWXpFNFVTMDRVVUkwVW5GNGNXRllhVTFSWkd0VVJWTTJUR1pqWTJodlIwdERSM0JtY1VVek1HOVJVbGx3WVhKRWNHa3RXV3B3TVVkNllqVTFTV3hKUVc5SE5GY3plVmRzVEd0U1dGVVNGM0JaWm1aaGRsOVFTRGRpYzIxTVVWQm9jV0k1YVVGUkdpSkJSSE55T1daVGEzVTJlREpvTVRkU0xUVlhSMnBmTFRNeGIwVlZhMmhaUVdaQg",
+    "title": "Remote Customer Support Jobs Worldwide",
+    "company": "JobsHives",
+    "location": "Anywhere",
     "is_remote": true,
     "min_salary": null,
     "max_salary": null,
     "salary_period": null,
-    "posted_at": "2026-09-06T19:18:44.000Z",
-    "apply_link": "https://uk.linkedin.com/jobs/view/social-media-specialist-fully-remote-upto-%24100-hr-at-mercor-4462916387?trk=bingjobs",
-    "description_snippet": "About The Job\n\r\n\n\r\nMercor connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors include\r\nBenchmark, General Catalyst, Peter Thiel,\r\nAdam D'Angelo, Larry Summers, and Jack Dorsey.\n\r\n\n\r\nPosition: Marketing Expert \u2014 Social Media (AI Agent Environments)\n\r\n\n\r\nType: Contract\n\r\n\n\r\nCompensation: $60\u2013$100/hour\n\r\n\n\r\nLocation: Remote\n\r\n\n\r\nRo",
-    "score": 3,
+    "posted_at": "2026-10-24T00:00:00.000Z",
+    "apply_link": "https://www.jobshives.com/remote-anywhere-jobs/customer-support",
+    "description_snippet": "Remote customer service and support jobs hiring now, open to applicants in any country. Chat, email and phone support, customer success and technical support, full-time and part-time, updated daily.",
+    "score": 2,
     "tags": [
-      "hourly-pay",
+      "pay-type-unclear",
       "remote-confirmed",
-      "trusted-source"
+      "unverified-source"
     ],
-    "first_seen": "2026-09-09T14:50:51.483122+00:00"
+    "first_seen": "2026-10-26T17:02:31.493456+00:00"
   },
   {
-    "id": "YmluZzotMjAzMTgyODYzOS5SZXRybw",
-    "title": "Influencer Program Specialist - Fully Remote  Upto $100/Hr",
-    "company": "Mercor",
-    "location": "Anywhere, England",
+    "id": "R2xyYTJJQS1Ma1hDNUtQNUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTME5uY1dwSVoxWlhla1pQVUdwb1dIUktOelpKWkU1WVFVbzVNRXhXUWxoVlNWQXhjRGQyUzFnelFYZ3hOVTFDZFZGRGVFczNORzFsYTB4eVdsRkRRakZETFRONVRXWnpZVEF5V0hacVNsVnpjRXRJVVZVMVVrdFljMmhTVnpabVIzTTNkVTlFZEd0d1MyOVdRMFpDZEZrMlVWZEJWeTAwYkhCV1ZtOWtUa2xYWkhVdFNHY1NGM0paWm1aaGRsaHBTMDFtVW10UVNWQnRPVzFvTWtFNEdpSkJSSE55T1daU2QyRXRlVlJHWmtwMGNtaHNXRGRUVDBaNGNrZ3dRVnB5YkMxbg",
+    "title": "Account Manager -U.S. Coast Guard",
+    "company": "WFHQuillen",
+    "location": "Anywhere",
     "is_remote": true,
     "min_salary": null,
     "max_salary": null,
     "salary_period": null,
-    "posted_at": "2026-09-06T19:18:45.000Z",
-    "apply_link": "https://uk.linkedin.com/jobs/view/influencer-program-specialist-fully-remote-upto-%24100-hr-at-mercor-4462921387?trk=bingjobs",
-    "description_snippet": "About The Job\n\r\n\n\r\nMercor connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors include\r\nBenchmark, General Catalyst, Peter Thiel,\r\nAdam D'Angelo, Larry Summers, and Jack Dorsey.\n\r\n\n\r\nPosition: Marketing Expert \u2014 Creator & Influencer (AI Agent Environments)\n\r\n\n\r\nType: Contract\n\r\n\n\r\nCompensation: $60\u2013$100/hour\n\r\n\n\r\nLocation: Remote",
-    "score": 3,
+    "posted_at": "2026-10-24T00:00:00.000Z",
+    "apply_link": "https://wfhquillen.r5f.talk4fun.net/remote-jobs/remote-account-manager-u-s-coast-guard-a9efe5dd",
+    "description_snippet": "Note The job is a remote job and is open to candidates in USA. AttainX, Inc. is a Women-Owned Small Business dedicated to delivering high-quality services to Federal Government customers. They are seeking an experienced USCG Account Manager (Part-Time) to expand their presence and ensure excellence in project delivery, focusing on pipeline development and relationship building with government stak",
+    "score": 2,
     "tags": [
-      "hourly-pay",
+      "pay-type-unclear",
       "remote-confirmed",
-      "trusted-source"
+      "unverified-source"
     ],
-    "first_seen": "2026-09-09T14:50:51.483188+00:00"
+    "first_seen": "2026-10-26T17:02:39.561207+00:00"
   },
   {
-    "id": "YmluZzotMTM1OTI5NjI2NC5SZXRybw",
-    "title": "Luxury Goods Consultant - Fully Remote  Upto $160/Hr",
-    "company": "Mercor",
-    "location": "Anywhere, England",
+    "id": "TERySUhpd0E2RzNKbGlGckFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbGc0Y0ZBeFh6ZG1PRU5pWVdselpYTTFjRUZqWW5oS2NVSkNPV1ZMWWxkcE5FNHhYMVF3VTNSamRqRnJVUzE1ZERWaGMwUmhNMXAwY2xnNWMwMUNTV1V0WkRaVmNqQXlVM2M1TjFodFgzbFFTa0pNWHpKTE9VOWllRGRIZVhSc1RXWk5XRzR5UmxndGVXYzVTa0paUVRremFUWlBiRWh0WjFOS1oyOXRkazVrZVdKZk0zY1NGM0paWm1aaGRsaHBTMDFtVW10UVNWQnRPVzFvTWtFNEdpSkJSSE55T1daVGFsQnZPSE5YU1RKd1RrNUtVMUZLUXpodFoyZGhhbGd3Ym5GUg",
+    "title": "Manager, Strategic Account Manager Not Remote (eCommerce/Marketplace Experience",
+    "company": "WFHQuillen",
+    "location": "Anywhere",
     "is_remote": true,
     "min_salary": null,
     "max_salary": null,
     "salary_period": null,
-    "posted_at": "2026-09-07T19:18:42.000Z",
-    "apply_link": "https://uk.linkedin.com/jobs/view/luxury-goods-consultant-fully-remote-upto-%24160-hr-at-mercor-4463201102?trk=bingjobs",
-    "description_snippet": "About The Job\n\r\n\n\r\nMercor connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors include\r\nBenchmark, General Catalyst, Peter Thiel,\r\nAdam D'Angelo, Larry Summers, and Jack Dorsey.\n\r\n\n\r\nPosition: Retail / Clienteling professionals\n\r\n\n\r\nType: Contract\n\r\n\n\r\nCompensation: $80\u2013$160/hour\n\r\n\n\r\nLocation: Remote\n\r\n\n\r\nRole Responsibilities\n\r",
-    "score": 3,
+    "posted_at": "2026-10-24T00:00:00.000Z",
+    "apply_link": "https://wfhquillen.r5f.talk4fun.net/remote-jobs/manager-strategic-account-manager-not-remote-ecommerce-marketplace-experience",
+    "description_snippet": "Company Description Walmart is the best place to build a career from the ground up. We believe no other company can match our combination of making an impact at scale and our culture of promoting from within, from entry-level roles all the way to executive roles. Our unique combination of pathways, perks and pay mean you can build just about any career you want here, no matter where you start or w",
+    "score": 2,
     "tags": [
-      "hourly-pay",
+      "pay-type-unclear",
       "remote-confirmed",
-      "trusted-source"
+      "unverified-source"
     ],
-    "first_seen": "2026-09-09T14:50:51.483241+00:00"
+    "first_seen": "2026-10-26T17:02:39.561484+00:00"
   },
   {
-    "id": "YmluZzo3MjM0NzYwMi5SZXRybw",
-    "title": "Voice Recording Specialist - Fully Remote  Upto $100/Hr",
-    "company": "Mercor",
-    "location": "Anywhere, England",
+    "id": "VU1wOGg3ZDRQSFIyRGJPQ0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVmRSTkc5MGVIVkNla0ZsUTI5Uk56QTRYMDk1Vm1WQ1oxcG1TRTlKZHpsUGVXTXpkMnBaZURSb1MweDRhWHAwVWxJd1dGcHFlbmwxWDNCUU1UaEdjbll0VERoUE9YRm5kMDFpVGxWcFRXSlpURk00Y1dNMk1FWk1iSGxxUzJ4cFEwUmxaRkp0VFdGdFdsVkZWVlZKYzFWTlJrSkNUemwyVTJsdE9FcGZWbUpYU2pNMGQzTVNGM0paWm1aaGRsaHBTMDFtVW10UVNWQnRPVzFvTWtFNEdpSkJSSE55T1daVE0zSlVSME4wZDIwd1UwazNiM0p1WjNoa1NHWnpWSFEzUmtGQg",
+    "title": "Senior Account Manager - Treasury Management",
+    "company": "PNC",
+    "location": "Anywhere",
     "is_remote": true,
     "min_salary": null,
     "max_salary": null,
     "salary_period": null,
-    "posted_at": "2026-09-07T19:18:45.000Z",
-    "apply_link": "https://uk.linkedin.com/jobs/view/voice-recording-specialist-fully-remote-upto-%24100-hr-at-mercor-4463209001?trk=bingjobs",
-    "description_snippet": "About The Job\n\r\n\n\r\nMercor connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors include\r\nBenchmark, General Catalyst, Peter Thiel,\r\nAdam D'Angelo, Larry Summers, and Jack Dorsey.\n\r\n\n\r\nPosition: Voice Actor: CX Agent Voice Cloning (UK English)\n\r\n\n\r\nType: Contract\n\r\n\n\r\nCompensation: $50\u2013$100/hour\n\r\n\n\r\nLocation: Remote\n\r\n\n\r\nCommitmen",
-    "score": 3,
+    "posted_at": "2026-10-24T00:00:00.000Z",
+    "apply_link": "https://careers.pnc.com/global/en/job/R237530/Senior-Account-Manager-Treasury-Management",
+    "description_snippet": "Position Overview\n\nAt PNC, our people are our greatest differentiator and competitive advantage in the markets we serve. We are all united in delivering the best experience for our customers. We work together each day to foster an inclusive workplace culture where all of our employees feel respected, valued and have an opportunity to contribute to the company's success. As a Senior Account Manager",
+    "score": 2,
     "tags": [
-      "hourly-pay",
+      "pay-type-unclear",
       "remote-confirmed",
-      "trusted-source"
+      "unverified-source"
     ],
-    "first_seen": "2026-09-09T14:50:51.483373+00:00"
+    "first_seen": "2026-10-26T17:02:39.561729+00:00"
+  },
+  {
+    "id": "cW44Qm1vOGdiMDhyWFkyV0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTekJYUWpWd1JVUnlWRGRTYVhwb2JVODJVRkZMY1ZCSlpEWm9VMU5FWWxKNWNrcG1WblZtVVVsaWVtZHBSR3d0ZEZRNE5tdDBkM2hWTlZsbVowWlhkMU5DVmpneE5FaHhXakJNYUVOMGRGOWxXbEExTld4M1RVZFFlVTlOVmtZNU1DMXRibWxDT1doT1RscE9ka1ppVjJkbmRWZExiRmhZVVZNMVNXMWlhVkpPTkc5MFYwUVNGM0paWm1aaGRsaHBTMDFtVW10UVNWQnRPVzFvTWtFNEdpSkJSSE55T1daUlEwRjBXVWMyVEc1SVZ6aEJiSGh4UjNsS2VYZG1VM2RCY2xKMw",
+    "title": "Public Relations Account Manager (Contract, Part-Time, Remote)",
+    "company": "SkillSync",
+    "location": "Anywhere",
+    "is_remote": true,
+    "min_salary": null,
+    "max_salary": null,
+    "salary_period": null,
+    "posted_at": "2026-10-24T00:00:00.000Z",
+    "apply_link": "https://skillsync.c9a.fast-page.org/remote-jobs/public-relations-account-manager-contract-part-time-remote",
+    "description_snippet": "Public Relations Account Manager (Contract, Part-Time, Remote | UPLVL Agency) At UPLVL Agency, the Account Manager is the engine of our client campaigns. They\u2019re the person who reads the news at 7am and immediately thinks \"that's our angle.\" You won't be waiting for direction. You'll be the one giving it. If you're a seasoned PR pro who's energized by securing meaningful media for founders who are",
+    "score": 2,
+    "tags": [
+      "pay-type-unclear",
+      "remote-confirmed",
+      "unverified-source"
+    ],
+    "first_seen": "2026-10-26T17:02:39.562216+00:00"
   },
   {
     "id": "ajVsLXdybVFjX25YeUdFbUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTalZhTWpCRWVIRXlWMWhPVXpRNU16Y3hhRkZwY2xGdFRVcEZTRUpGY3pkVGFYb3pkelJWTlhSd1NqWlVOR2wwWVhoNGJrOVRWV293UkRGWlZHdFBVVFUyTUVFeFFrRmFkWEZLV0dKQlQyY3hXRFp2Tm5KbFFVVjBZbEpIZW0xTk9GY3dSbHAyZVdWdU9UVlhSM1ZJTTI5WFRtdEVSRzg0T1ZBd2FqZ3pURFJuVGpKMVJHMFNGMkZ1TTJKaGRGQkNRMWxMVFRRdFJWQTNjRlJKYjBGVkdpSkJSSE55T1daU1pucFFXVlZoT1dGV1lYZHdYMGczUzJOb2NHZGFUR3RPU3pWMw",
@@ -10392,124 +10637,65 @@
     "first_seen": "2026-09-14T16:40:14.200292+00:00"
   },
   {
-    "id": "YmluZzotMTk1MDc3NDkyOS5SZXRybw",
-    "title": "Remote Live Chat & Customer Service Representative",
-    "company": "pioneer steel inc.",
-    "location": "Anywhere, CO",
+    "id": "QUthMVQ5OGdHaGxVTE01VUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTa2cyWkdKcE0zTnNNVkUzUWxFdGVUTkJUSEpvTW1wRWNrOXNRemRIYTI5U05WUmhlRUpyWDJoVVpsbEtVRzlWZFVWUWVpMTZVMXBRWVVGc1J5MVhPVEpaWkhsRGVuaEpNMmhaWTNkMmNtMW5NblJ5Y1dvMFNFeENjMUU0UlY5NlNGbFZRVlJRU0dSa1ZEbFlSRkprVkhWdVUzbHRiVVUxWVVGRmVFbzFhek42VURaU1NtSVNGMjFKWm1aaGNFUXdUWEV5ZDNWeU9GQnJiMVJCYTBFMEdpSkJSSE55T1daU1ptUlNlbVJTVWpkVU1uSXhSbGhhYzFoeVZuVkZNa0p6WTE5Mw",
+    "title": "Join Today: Amazon Customer Service (Remote Jobs At Home)",
+    "company": "WFHQuillen",
+    "location": "Anywhere",
     "is_remote": true,
     "min_salary": null,
     "max_salary": null,
     "salary_period": null,
-    "posted_at": "2026-09-08T19:26:26.000Z",
-    "apply_link": "https://www.ziprecruiter.com/c/pioneer-steel/Job/Remote-Live-Chat-&-Customer-Service-Representative/-in-New-Castle,CO?jid=5a303df33a00db12&trk=bingjobs",
-    "description_snippet": "DUTIES: Connect columns, beams, and girders with bolts, following blueprints and instructions from supervisors.\n\r\nBolt aligned structural steel members in position for permanent riveting, bolting, or welding into place.\n\r\nFasten structural steel members to hoist cables, using chains, cables, or rope.\n\r\nHoist steel beams, girders, or columns into place, using cranes or signaling hoisting equipment ",
-    "score": 2,
+    "posted_at": "2026-10-24T00:00:00.000Z",
+    "apply_link": "https://wfhquillen.r5f.talk4fun.net/remote-jobs/join-today-amazon-customer-service-remote-jobs-at-home-2",
+    "description_snippet": "Key Job Details \u2022 Company Workwarp \u2022 Start Date Immediate openings available \u2022 Position Amazon Customer Service \u2022 Location Remote \u2022 Compensation a competitive salary \u00c2 \u00c2 Job Summary Type Full-Time/Part-Time Salary Competitive hourly wage Working Hours Flexible schedule (Under 4 hours for part-time) Company Amazon Location Remote Benefits Health, Dental, Paid Training, Paid Vacations, Flexible Sche",
+    "score": 1,
     "tags": [
       "pay-type-unclear",
       "remote-confirmed",
-      "trusted-source"
+      "unverified-source"
     ],
-    "first_seen": "2026-09-10T14:40:45.704885+00:00"
+    "first_seen": "2026-10-26T17:02:18.740854+00:00"
   },
   {
-    "id": "YmluZzo1MzQ0MDkzOTUuUmV0cm8",
-    "title": "Healthcare Call Center Unit Lead - Remote US",
-    "company": "Gainwell Technologies",
-    "location": "Anywhere, TX",
+    "id": "bUFCODNMZjNjNjVFR2ZJb0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbll4WWpaeFprUldTRlZYTFVwWFNsZHdWVUZ6YVU0MVpEUTJRMU5IUTAwM2QwRkxhRGRvWVd4bVZUZExRV2M0TkVnM1MzUlRWMnA1Y1ZwV1dWWXlkRk16WWxCeFQzQjJVamQ2WjFaYVlXWkZaRkZaU2t4MFdHVnRNRVozZG5ocFlWRmhTbnBtVlhGRU1YQXRPR0ozV1VaM2IyeFhYM1ZUUldSckxXbFdNVGR5Y21od1JEWVNGMjlaWm1aaGNtWjRRV00yWlRRdFJWQjNjVkIxYzBGdkdpSkJSSE55T1daU1ZYZHhaV0l0TjJWYU1XdHFkbWRtYm5keWRscFZhREZQZFhGQg",
+    "title": "Work From Home Jobs | Years | Virtual Customer Service Associate (International Voice) | Across India",
+    "company": "WFHQuillen",
+    "location": "Anywhere",
     "is_remote": true,
     "min_salary": null,
     "max_salary": null,
     "salary_period": null,
-    "posted_at": "2026-09-08T13:40:50.000Z",
-    "apply_link": "https://www.linkedin.com/jobs/view/healthcare-call-center-unit-lead-remote-us-at-gainwell-technologies-4453489155?trk=bingjobs",
-    "description_snippet": "It takes great medical minds to create powerful solutions that solve some of healthcare\u2019s most complex challenges. Join us and put your expertise to work in ways you never imagined possible. We know you\u2019ve honed your career in a fast-moving medical environment. While Gainwell operates with a sense of urgency, you\u2019ll have the opportunity to work more flexible hours. And working at Gainwell carries ",
-    "score": 2,
+    "posted_at": "2026-10-23T00:00:00.000Z",
+    "apply_link": "https://wfhquillen.r5f.talk4fun.net/remote-jobs/work-from-home-jobs-years-virtual-customer-service-associate-international-voice-across-india",
+    "description_snippet": "Job Summary The Elite Job is offering an exciting opportunity for a Virtual Customer Service Associate to join our dynamic and customer-focused team. This role is ideal for individuals who are passionate about providing excellent customer service in an international environment. As a Virtual Customer Service Associate, you will handle inbound and outbound calls, address customer inquiries, and ens",
+    "score": 1,
     "tags": [
       "pay-type-unclear",
       "remote-confirmed",
-      "trusted-source"
+      "unverified-source"
     ],
-    "first_seen": "2026-09-10T14:40:57.036798+00:00"
+    "first_seen": "2026-10-26T17:02:28.260660+00:00"
   },
   {
-    "id": "YmluZzoxMDI1NzY3NTYuUmV0cm8",
-    "title": "Associate (Part-Time, Remote)",
-    "company": "secured futures",
-    "location": "Anywhere, GA",
+    "id": "TFNQYlR6ZDRub1RWNFVCZkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVkZPUkMxWmRrOUtkM05pU2s5SkxXNDBjSGRLWjFwbFNXczNZVjgyTkVwSVZucDVkVlZWT0hsZk0wUlNlVGRxWlZGT1pYZDViMEV3VG1kTU1VRXlSQzFWYUVvelprYzBjMXB6U0ZvM2VWSnhXbHBOZFRScGNVVnZkMnBZTTFsTE4yeHhZVVZWUTB0UVRrbHBSM0ZUVkZWdVlWRXdiMHBMTWpSS1ZFcGpZMDVTT0dodFowSVNGM05aWm1aaGRIcE1RWEJMTmpWUFZWQndkV1pJZVVGWkdpSkJSSE55T1daVFdtZzJSbGRrY1daaVp6RmliVlEyWVcxV2RFMVNWeTFzZDFwbg",
+    "title": "Part-time Evening Phone Coordinator",
+    "company": "remote quest jobs",
+    "location": "Anywhere",
     "is_remote": true,
     "min_salary": null,
     "max_salary": null,
     "salary_period": null,
-    "posted_at": "2026-09-08T15:04:08.000Z",
-    "apply_link": "https://www.linkedin.com/jobs/view/associate-part-time-remote-at-secured-futures-4462567086?trk=bingjobs",
-    "description_snippet": "Company Overview\n\r\n\n\r\nWe are a mission-driven financial education and services organization focused on solving one of the world's most pressing issues: financial illiteracy. Our team helps individuals, families, and business owners gain the knowledge and tools they need to build financial security and long-term independence.\n\r\n\n\r\nWe pride ourselves on a culture of excellence, integrity, and servic",
-    "score": 2,
+    "posted_at": "2026-10-23T00:00:00.000Z",
+    "apply_link": "https://us.remotejobs.dedyn.io/job/1674535",
+    "description_snippet": "Evening Remote Phone Coordinator\n\nreputed company\n\nreputed company\u2013Friday | 4:00PM\u20138:00PM | Work From Home\n\nAt reputed company, we serve patients and families during some of the most sacred and tender moments of life. The voice that answers our phone matters.\n\nWe are looking for a calm, compassionate, emotionally steady individual to manage incoming calls to our main line during evening hours.\n\nre",
+    "score": 1,
     "tags": [
-      "pay-type-unclear",
+      "hourly-pay",
+      "evening-shift-mentioned",
       "remote-confirmed",
-      "trusted-source"
+      "low-quality-listing"
     ],
-    "first_seen": "2026-09-10T14:41:09.552462+00:00"
-  },
-  {
-    "id": "YmluZzotNzA4MTY5NDQzLlJldHJv",
-    "title": "Staff Psychiatrist - Part Time (Remote)",
-    "company": "La Clinica del Pueblo",
-    "location": "Anywhere, DC",
-    "is_remote": true,
-    "min_salary": null,
-    "max_salary": null,
-    "salary_period": null,
-    "posted_at": "2026-09-07T07:37:10.000Z",
-    "apply_link": "https://www.linkedin.com/jobs/view/staff-psychiatrist-part-time-remote-at-la-clinica-del-pueblo-4431885601?trk=bingjobs",
-    "description_snippet": "La Cl\u00ednica del Pueblo\n\r\n\n\r\nSTAFF PSYCHIATRIST - PART TIME POSITION\n\r\n\n\r\nJob Title: Staff Psychiatrist - Part Time (Remote anywhere in the US)\n\r\n\n\r\nDepartment: Patient Services\n\r\n\n\r\nSupervisor: Amina Chaudhry\n\r\n\n\r\nLocation: Remote (anywhere in the US)\n\r\n\n\r\nClassification: Exempt/ Salaried - Part Time\n\r\n\n\r\nSynopsis: Under the direction of the Chief Health Officer (CHO) or their designee, the Staff P",
-    "score": 2,
-    "tags": [
-      "pay-type-unclear",
-      "remote-confirmed",
-      "trusted-source"
-    ],
-    "first_seen": "2026-09-09T14:50:44.875108+00:00"
-  },
-  {
-    "id": "YmluZzotNzk2MzcwMzE4LlJldHJv",
-    "title": "Sales Executive (Remote)",
-    "company": "FORTE Talents",
-    "location": "Anywhere, England",
-    "is_remote": true,
-    "min_salary": null,
-    "max_salary": null,
-    "salary_period": null,
-    "posted_at": "2026-09-08T00:00:00.000Z",
-    "apply_link": "https://uk.linkedin.com/jobs/view/sales-executive-remote-at-forte-talents-4463526619?trk=bingjobs",
-    "description_snippet": "Role Summary\n\r\n\n\r\n\n\r\nThe Sales Executive drives revenue growth by owning the full early-stage sales lifecycle for SMB accounts within the IT sector. This\r\nMid-Level, Part-Time role is designed for a high-autonomy closer who can balance proactive prospecting with consultative discovery to convert leads into long-term partners. Success is measured by consistent quota attainment, pipeline health, and",
-    "score": 2,
-    "tags": [
-      "pay-type-unclear",
-      "remote-confirmed",
-      "trusted-source"
-    ],
-    "first_seen": "2026-09-09T14:50:51.482840+00:00"
-  },
-  {
-    "id": "YmluZzo4NjIwNjAzNTcuUmV0cm8",
-    "title": "Associate (Remote, Part-Time)",
-    "company": "secured futures",
-    "location": "Anywhere, GA",
-    "is_remote": true,
-    "min_salary": null,
-    "max_salary": null,
-    "salary_period": null,
-    "posted_at": "2026-09-07T00:00:00.000Z",
-    "apply_link": "https://www.monster.com/job-openings/associate-remote-part-time-atlanta-ga--76dd5502-ddcb-4a88-b2e6-a3b49549bb60?mstr_dist=true&trk=bingjobs",
-    "description_snippet": "Associate (Part-Time, Remote)\r\n\n\r\n\n\r\nCompany Overview\r\nWe are a mission-driven financial education and services organization focused on solving one of the world's most pressing issues: financial illiteracy. Our team helps individuals, families, and business owners gain the knowledge and tools they need to build financial security and long-term independence.\n\r\nWe pride ourselves on a culture of exc",
-    "score": 2,
-    "tags": [
-      "pay-type-unclear",
-      "remote-confirmed",
-      "trusted-source"
-    ],
-    "first_seen": "2026-09-09T14:51:08.489536+00:00"
+    "first_seen": "2026-10-26T17:02:44.191573+00:00"
   },
   {
     "id": "S2VDVmFYUXIyM25hUFNyZkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUR3BvVlZoWWFGODVhSFI2YWpoWFoyRldYMGxpYVdaNllYVlNOMjE0TVVWUlZHZEZSWFpsZDBoelgwWllWa05rZWpSWlNuZFNSMlI1V1RsQmRXcDRXV2hNYVZKMlN6bEtYM0J0VG1WUlgyaHFUR1Z4Y0Y5bFZFUllXbGM0ZG14Q2VqaHlSMUpDUlhSNGRtWnJiMTlTWTFkclJVZFpjMnhPZEZob2NYUlRWbFl3TkhWclpFa1NGMkZ1TTJKaGRGQkNRMWxMVFRRdFJWQTNjRlJKYjBGVkdpSkJSSE55T1daVVluUlRSRVJCUzNSRlN6UjNZVkZ0VFd3elFYSlJOREkyZFVoQg",
@@ -11592,24 +11778,25 @@
     "first_seen": "2026-09-17T15:21:49.788114+00:00"
   },
   {
-    "id": "YmluZzoxMzA0MjkxMzIxLlJldHJv",
-    "title": "Part Time/Full Time Remote Data Entry Specialist",
-    "company": "ApexFocusGroup",
-    "location": "Anywhere, SC",
+    "id": "TWdHajRWeHVBNjJyTEdZcUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTWGN5Y0hsWGRrd3RjbGhKVUZORVZWaHBhMnhqYUdKdFZYa3lkbDk2ZDJkNVZVRnZhMlJ5UTFneVRXNXhhR0pFTmxJeVdHNDNUbUpwWnpVMVZGRm5UWE5wTWxGSGJFWlBVelpTV2tVellUSkdXalZ0VFZkU1dtb3hTRWd5T1U1dGIxWnROakJUYlRCbFdsOTRhRzFpWW10bmVYaDBjMlI1TUc1T01raGlXRkpNTkZkekxWZ1NGM05aWm1aaGRIcE1RWEJMTmpWUFZWQndkV1pJZVVGWkdpSkJSSE55T1daVFVrbG9hbmRYWWxCS1JXUk5VSFk1VXpGUFJrUm1kM1ZOZWt0Qg",
+    "title": "**Experienced Customer Service Representative \u2013 Part-Time Evening Shift in Saint Charles, MO at arenaflex**",
+    "company": "remote quest jobs",
+    "location": "Anywhere",
     "is_remote": true,
     "min_salary": null,
     "max_salary": null,
     "salary_period": null,
-    "posted_at": "2026-09-08T00:00:00.000Z",
-    "apply_link": "https://www.adzuna.com/details/5876118566?trk=bingjobs",
-    "description_snippet": "Now accepting applicants for Focus Group studies. Earn up to $750 per week part-time working from home. Must register to see if you qualify. No Data Entry experience needed.\n\r\nData Entry Clerk Work From Home - Part Time Remote Focus Group Panelists\n\r\nOur company is seeking motivated individuals to participate in National & Local Paid Focus Groups, Clinical Trials, and Market Research assignments.\n",
-    "score": 1,
+    "posted_at": "2026-10-23T00:00:00.000Z",
+    "apply_link": "https://us.remotejobs.dedyn.io/job/2258442",
+    "description_snippet": "Are you a people person with a passion for delivering exceptional customer experiences? Do you thrive in fast-paced environments where no two days are ever the same? If so, we want you to join our team as a Customer Service Representative at arenaflex in Saint Charles, MO. As a key member of our retail team, you will be responsible for providing top-notch customer service, operating a cash registe",
+    "score": 0,
     "tags": [
       "pay-type-unclear",
+      "evening-shift-mentioned",
       "remote-confirmed",
-      "unverified-source"
+      "low-quality-listing"
     ],
-    "first_seen": "2026-09-10T14:40:45.704984+00:00"
+    "first_seen": "2026-10-26T17:02:44.191680+00:00"
   },
   {
     "id": "VEEtUXd3bjl2WW1sOXdheEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURmxQVVZWc1REaENPVEJSYTJ4WFExRnRVV1JaYTJOeWRGZEdNbXRuZVRSMmIwWkdSVEJIUTB0V1FrcHBaalpaTjB0b2F5MURla1JZWldKR1UxbzJWeTFETm5kSmFHTnRWV2d5T0U5VGQzSmtNbU5KYVhCc01FSlFabVE0VVd0c2QyeE1aRFJ3YUZKSk5XVkNjV0ZhTkhKcVRrcGFVbHAyTlVKVlZtdG1aR3BFYzBVMFluWVNGM2R2WmxoaGMxTllTRmx4ZFhBNE5GQnpaRk14TUVGVkdpSkJSSE55T1daU2QyZFFielU1Y1cxUlpYUkdaREpJYVdGNGFEbHljMUY2YUUxMw",
@@ -11988,6 +12175,26 @@
       "low-quality-listing"
     ],
     "first_seen": "2026-09-14T16:41:02.546707+00:00"
+  },
+  {
+    "id": "Zi1PWTVHcVBiZjR0b1c0QkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTWHA1ZEROS09HaDNOWE5JYjJwalFrZGhiRkpGTUMxMlduTkZUVWg2ZGtwQ2NtUnVNM0puZWpjM1YyOUZlVTR3UVZwdlJuVTNNbXQ2YTNsR1RXMW5UM0J0V0doSlkyVklMVXhZZEZkRVRETlNkalo0V2tFdFkyWnBNSEZVYm5KU1VHSmFjekpYY25oWVMxVnBWM2RKYkZkdU9HSnBiVGhRYjJkSmJYbFRWa0ZMZVdWNWNrRVNGM0JaWm1aaGRsOVFTRGRpYzIxTVVWQm9jV0k1YVVGUkdpSkJSSE55T1daU1VXeE1kWFo0VVVwd1gyaHRaRFpxVTI5d2NYWnhXRTFOYmpSUg",
+    "title": "Customer Success Representative (Remote, Seasonal, Part-Time",
+    "company": "remote quest jobs",
+    "location": "Anywhere",
+    "is_remote": true,
+    "min_salary": null,
+    "max_salary": null,
+    "salary_period": null,
+    "posted_at": "2026-10-23T00:00:00.000Z",
+    "apply_link": "https://us.remotejobs.dedyn.io/job/2440737",
+    "description_snippet": "About reputed company:\n\nAt reputed company, we design learning journeys where reputed company child in NYC and reputed company becomes a risk-taking entrepreneur, inquisitive problem solver, and empathetic leader. As the largest, and the fastest growing STEM camp provider in NYC with 3000+ campers annually, we are the reputed company World of STEM education, where each learning experience is magic",
+    "score": -1,
+    "tags": [
+      "hourly-pay",
+      "remote-confirmed",
+      "low-quality-listing"
+    ],
+    "first_seen": "2026-10-26T17:02:31.493081+00:00"
   },
   {
     "id": "bDI2Rmktd0hlei03eWVNOEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMWQ1T0dsNk1sOWtXV2t5TUhSdFRERjFNR2RWTTNkMVIxOVFTR0ZKZWpKS1JUZzBkVlZSUVd4MVJHNVlTRVJzTlRRM2FucHdVazlEVkZWSVRVdFJSa3RPTWxSMU5sZFFlRXhCTjNkbGFERnhPV2gzTVROeGJYTXdZMmx1YWxjM1NVaFJkMWRQTkV0dlNraEhZVWhDWW5kemEwOVNWMFZxWXpkUFUweGFXRWt5Tld4TVFUa1NGMVk1TTFsaGNWaEhTUzFUTVdoMlkxQXhaaTB4ZVVGRkdpSkJSSE55T1daVU1WOTRNbTlVVjFGbmRXaGljMjVSV0RkRVFqTnpWVzFuYVRobg",
@@ -14548,6 +14755,26 @@
       "low-quality-listing"
     ],
     "first_seen": "2026-09-14T16:40:31.892230+00:00"
+  },
+  {
+    "id": "bW8wRWV6X056VXBmWUNTWUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUSE55V1VNeFZGbzVTemxhZG1GSWFqbERTR2RMV0hWa09IRmZUbEJzZGt4WFZEUTFVRkpXV1hwb1gyeHNTVTFCVWxwR1F6ZHpZbEZVVEhCS1JqUjFlakZNUW5CaWNYQnZlalJ5Um5wb01uRkphVVJpZFdKc1pFVlNMWHBxWXpOdGIweHpUVmxQWldSU0xVbzFMVFpmY2tKYWQzZGlPR055Wkd3NWMzQm5SMnhVUzJwMGRFOFNGMjFKWm1aaGNFUXdUWEV5ZDNWeU9GQnJiMVJCYTBFMEdpSkJSSE55T1daU1JtaGhWamxOZEcxZmRYbDJOMEZSUjA5Q2RXOWZUR1JaZUhWUg",
+    "title": "Agent, Customer Experience (Part Time)",
+    "company": "remote quest jobs",
+    "location": "Anywhere",
+    "is_remote": true,
+    "min_salary": null,
+    "max_salary": null,
+    "salary_period": null,
+    "posted_at": "2026-10-23T00:00:00.000Z",
+    "apply_link": "https://us.remotejobs.dedyn.io/job/1928530",
+    "description_snippet": "Job descriptionAgent, Customer Experience (Part Time)reputed company - NevadaJOB OVERVIEWSoko Glam is looking for enthusiastic, thoughtful, and highly motivated problem solvers who are passionate about creating memorable customer experiences and building strong relationships. In reputed company role, you will be the first point of contact for our customers and engage with them on email, social med",
+    "score": -3,
+    "tags": [
+      "pay-type-unclear",
+      "remote-confirmed",
+      "low-quality-listing"
+    ],
+    "first_seen": "2026-10-26T17:02:18.740616+00:00"
   },
   {
     "id": "TWZDSEFNcjhYN3h1SEFJa0FBQUFBQT09OkVzc0JDb3dCUVVwcFZEUjBTWEJJVkY5aldXazRibEJuT0VKNE4yWjRTazB0ZFZkeVdWVXpUa2haVXpOZlJGSnNYMGhxTVVOeE5GUlJTMWRWVEhkcmEyeExNMGN6VjFCd2JXWjFWMGhLU2pCSmIxcGpZVTB5VjNVelgxSnJiMUp5TTFkdU16VmZVMmhETTBOdVR6TnVUM1pFWDIxRmQxb3RNek40VFdJMldHMW9jRkJXZWtaVmVFa3hiekJVZW1SaWFWOFNGbVZZTTJKaGRIVlZURGQxVURRdFJWQnpOelphVTFFYUlrRkVjM0k1WmxGeGVraHFlVUkwT0U5V2IxOVlTRXhPZVROMVZtdEJhVnB0TlZF",
